@@ -203,7 +203,7 @@
 本功能為彰化縣學校專用，提供匯出給編班中心的資料檔及匯入編班中心給的資料檔。
 {% endhint %}
 
-![](../.gitbook/assets/chc-output.png)
+![](../.gitbook/assets/chc-output%20%281%29.png)
 
 1. 請到 [學期初設定&gt;班級](qi-chu-ding.md#2-ban) 設定班級。
 2. 由本模組 [新生作業](xin-sheng-ban-yong-zhong.md#xin-sheng-zuo) 匯入新生的資料。

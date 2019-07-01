@@ -33,6 +33,7 @@
 * [新生編班（適用國中）](jiao/xin-sheng-ban-yong-zhong.md)
 * [五專免試入學](jiao/wu-mian-ru.md)
 * [中投區免試入學](jiao/zhong-tou-mian-ru.md)
+* [彰縣免試入學](jiao/zhang-xian-mian-shi-ru-xue.md)
 * [線上補考管理](jiao/shang-kao-guan-li.md)
 * [補救教學篩選](jiao/jiu-jiao.md)
 * [技藝學程成績](jiao/ji-cheng-cheng.md)
