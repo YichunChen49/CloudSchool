@@ -285,24 +285,28 @@ description: 本模組提供校內各項行政功能支援：訊息公告、調�
 
 ![](../.gitbook/assets/open-news31.png)
 
-1. 按下**「新增單位」**，輸入單位名稱、Email。（Email 為接收通報用，請使用 gmail，並設定好 [允許低安全性應用程式存取](https://support.google.com/accounts/answer/6010255?hl=zh-Hant)。詳細設定教學請參考下節 [通報 Email 設定](xi-guan-li.md#tong-email-ding)）
+1. 按下**「新增單位」**，輸入單位名稱、Email。
 2. 按下**「編輯」**，可修改單位名稱、Email。
 3. 按下**「權限」**，設定單位回覆通報的人員，有權限者才能回復維修狀況。
 4. 編輯權限，可授權給：處室、職稱、職稱類別或自訂群組。
 5. 編輯權限，顯示所選的群組，亦可刪除。
+
+{% hint style="warning" %}
+欲使用 mail 通知通報單位，請先到「參數設定」設定**系統 mail**，所有訊息通報將以此 mail 位址發送郵件，請參考下節 [通報 Email 設定](xi-guan-li.md#tong-bao-email-she-ding) 說明。
+{% endhint %}
 
 ### 通報 Email 設定
 
 維修通報的 Email 分為三種角色：
 
 1. **系統 mail**：請在本模組 [參數設定](xi-guan-li.md#ding) 第 10、11 點設定（須填入 gamil 帳戶密碼）
-   * 當有使用者填寫維修事項時，會通知報修單位。
-   * 當報修單位回覆維修狀況時，會通知使用者。
+   * 當有使用者填寫維修事項時，會以此 mail 通知報修單位。
+   * 當報修單位回覆維修狀況時，會以此 mail 通知使用者。
 2. **報修單位 mail**：請在本模組 [報修單位設定](xi-guan-li.md#xiu-wei-ding) 設定，沒有設定即不會收到通知。
-3. **使用者 mail**：請在使用者 個人資料 設定，沒有設定即不會收到通知。
+3. **使用者 mail**：請在使用者「個人資料」設定，沒有設定即不會收到通知。
 
 {% hint style="warning" %}
-系統、報修單位之 Email 須為 gmail，且設定為「[允許低安全性應用程式存取](https://support.google.com/accounts/answer/6010255?hl=zh-Hant)」，設定步驟如下：
+系統 mail 須為 gmail，且設定為「[允許低安全性應用程式存取](https://support.google.com/accounts/answer/6010255?hl=zh-Hant)」，設定步驟如下：
 
 1. 前往您的 [Google 帳戶](https://myaccount.google.com/)。
 2. 按一下左側導覽面板上的 \[安全性\]。
