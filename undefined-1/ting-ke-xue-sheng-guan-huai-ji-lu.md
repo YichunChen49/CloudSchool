@@ -42,7 +42,7 @@
 {% endtab %}
 
 {% tab title="填報狀況" %}
-### ※建議開放給行政人員及導師
+### ※建議開放給行政人員
 
 ![](../.gitbook/assets/ting-ke-guan-huai-tian-bao-zhuang-kuang-1.png)
 
@@ -51,7 +51,7 @@
 {% endtab %}
 
 {% tab title="統計" %}
-### ※建議開放給行政人員及導師
+### ※建議開放給行政人員
 
 #### 停課原因 統計圖表
 
