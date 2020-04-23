@@ -66,6 +66,24 @@
 4. **刪除紀錄**
 5. **可將停課關懷紀錄複製至輔導訪談紀錄** ![](../.gitbook/assets/ting-ke-xue-sheng-guan-huai-ji-lu-tian-bao-4.png)  ****
 {% endtab %}
+
+{% tab title="教學影片" %}
+1.如何新增關懷模組\(建議行政人員操作\)
+
+{% file src="../.gitbook/assets/1.-ru-he-xin-zeng-guan-huai-mo-zu.mp4" %}
+
+2.如何開放填報功能給導師\(建議行政人員操作\)
+
+{% file src="../.gitbook/assets/2.-ru-he-kai-fang-tian-bao-gong-neng-gei-dao-shi.mp4" %}
+
+3.如何立案\(建議行政人員操作\)
+
+{% file src="../.gitbook/assets/3.-ru-he-li-an.mp4" %}
+
+4.如何填報\(建議導師操作\)
+
+{% file src="../.gitbook/assets/4.-ru-he-tian-bao.mp4" %}
+{% endtab %}
 {% endtabs %}
 
 
