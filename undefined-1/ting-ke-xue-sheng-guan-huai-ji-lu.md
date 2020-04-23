@@ -2,7 +2,7 @@
 
 {% tabs %}
 {% tab title="模組建置" %}
-1.如何新增關懷模組\(建議行政人員操作\)
+**1.如何新增關懷模組\(建議行政人員操作\)**
 
 * 系統管理
 * 模組管理
@@ -11,7 +11,7 @@
 
 {% file src="../.gitbook/assets/1.-ru-he-xin-zeng-guan-huai-mo-zu.mp4" %}
 
-2.如何開放填報功能給導師\(建議行政人員操作\)
+**2.如何開放填報功能給導師\(建議行政人員操作\)**
 
 * 系統管理
 * 模組管理
@@ -21,7 +21,7 @@
 {% endtab %}
 
 {% tab title="立案" %}
-### 停課學生關懷紀錄列表
+### ※建議行政人員操作
 
 ![](../.gitbook/assets/ting-ke-xue-sheng-guan-huai-li-an-1.png)
 
@@ -42,7 +42,7 @@
 {% endtab %}
 
 {% tab title="填報狀況" %}
-### **關懷紀錄填報狀況**
+### ※建議開放給行政人員及導師
 
 ![](../.gitbook/assets/ting-ke-guan-huai-tian-bao-zhuang-kuang-1.png)
 
@@ -51,7 +51,7 @@
 {% endtab %}
 
 {% tab title="統計" %}
-### 了解各項統計數據分布狀況
+### ※建議開放給行政人員及導師
 
 #### 停課原因 統計圖表
 
@@ -71,7 +71,7 @@
 {% endtab %}
 
 {% tab title="填報" %}
-### 停課學生關懷紀錄填報
+### ※建議導師操作
 
 ![](../.gitbook/assets/ting-ke-xue-sheng-guan-huai-ji-lu-tian-bao-1.png)
 
