@@ -1,6 +1,25 @@
 # 停課學生關懷紀錄
 
 {% tabs %}
+{% tab title="模組建置" %}
+1.如何新增關懷模組\(建議行政人員操作\)
+
+* 系統管理
+* 模組管理
+* 新增模組
+* 新增停課學生關懷紀錄
+
+{% file src="../.gitbook/assets/1.-ru-he-xin-zeng-guan-huai-mo-zu.mp4" %}
+
+2.如何開放填報功能給導師\(建議行政人員操作\)
+
+* 系統管理
+* 模組管理
+* 模組授權開放給導師
+
+{% file src="../.gitbook/assets/2.-ru-he-kai-fang-tian-bao-gong-neng-gei-dao-shi.mp4" %}
+{% endtab %}
+
 {% tab title="立案" %}
 ### 停課學生關懷紀錄列表
 
@@ -16,6 +35,10 @@
 {% hint style="info" %}
 建議區別立案者與填報者的權限功能。
 {% endhint %}
+
+※立案教學影片
+
+{% file src="../.gitbook/assets/3.-ru-he-li-an.mp4" %}
 {% endtab %}
 
 {% tab title="填報狀況" %}
@@ -65,22 +88,8 @@
 
 4. **刪除紀錄**
 5. **可將停課關懷紀錄複製至輔導訪談紀錄** ![](../.gitbook/assets/ting-ke-xue-sheng-guan-huai-ji-lu-tian-bao-4.png)  ****
-{% endtab %}
 
-{% tab title="教學影片" %}
-1.如何新增關懷模組\(建議行政人員操作\)
-
-{% file src="../.gitbook/assets/1.-ru-he-xin-zeng-guan-huai-mo-zu.mp4" %}
-
-2.如何開放填報功能給導師\(建議行政人員操作\)
-
-{% file src="../.gitbook/assets/2.-ru-he-kai-fang-tian-bao-gong-neng-gei-dao-shi.mp4" %}
-
-3.如何立案\(建議行政人員操作\)
-
-{% file src="../.gitbook/assets/3.-ru-he-li-an.mp4" %}
-
-4.如何填報\(建議導師操作\)
+※填報教學影片
 
 {% file src="../.gitbook/assets/4.-ru-he-tian-bao.mp4" %}
 {% endtab %}
