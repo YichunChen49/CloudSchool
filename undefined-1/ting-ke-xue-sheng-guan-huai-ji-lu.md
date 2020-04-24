@@ -4,18 +4,18 @@
 {% tab title="模組建置" %}
 **1.如何新增關懷模組\(建議行政人員操作\)**
 
-* 系統管理
-* 模組管理
-* 新增模組
-* 新增停課學生關懷紀錄
+* 請至`系統管理`
+* 選擇`模組管理`
+* 點選`新增模組`
+* 新增`停課學生關懷紀錄`
 
 {% file src="../.gitbook/assets/1.-ru-he-xin-zeng-guan-huai-mo-zu.mp4" %}
 
 **2.如何開放填報功能給導師\(建議行政人員操作\)**
 
-* 系統管理
-* 模組管理
-* 模組授權開放給導師
+* 請至`系統管理`
+* 選擇`模組管理`
+* 將功能授權給導師
 
 {% file src="../.gitbook/assets/2.-ru-he-kai-fang-tian-bao-gong-neng-gei-dao-shi.mp4" %}
 {% endtab %}
