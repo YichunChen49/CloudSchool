@@ -87,7 +87,7 @@
    > * 填寫`學生狀況`
 
 4. **刪除紀錄**
-5. **可將停課關懷紀錄複製至輔導訪談紀錄** ![](../.gitbook/assets/ting-ke-xue-sheng-guan-huai-ji-lu-tian-bao-4.png)  ****
+5. **可將停課關懷紀錄複製至輔導訪談紀錄**  ![](../.gitbook/assets/ting-ke-xue-sheng-guan-huai-ji-lu-tian-bao-4.png)  ****
 
 ※填報教學影片
 
