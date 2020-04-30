@@ -57,7 +57,7 @@
 * [輔導記錄登錄查詢](undefined-1/deng-cha.md)
 * [個案輔導記錄](undefined-1/an.md)
 * [個案輔導管理](undefined-1/an-guan-li.md)
-* [停課學生關懷紀錄](undefined-1/ting-ke-xue-sheng-guan-huai-ji-lu.md)
+* [停課學生關懷紀錄\(限臺中市\)](undefined-1/ting-ke-xue-sheng-guan-huai-ji-lu.md)
 
 ## 教職員 <a id="jiao-1"></a>
 
