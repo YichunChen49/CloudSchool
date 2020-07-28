@@ -158,8 +158,6 @@
 {% endtab %}
 {% endtabs %}
 
-### 亂數編班
-
 ### S 型編班
 
 {% hint style="danger" %}
