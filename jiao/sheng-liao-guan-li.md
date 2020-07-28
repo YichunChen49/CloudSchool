@@ -162,10 +162,13 @@
 
 ### S 型編班
 
-{% hint style="warning" %}
-1. 請確認畢業生已完成[「畢業轉出」](sheng-liao-guan-li.md#bi-ye-zhuan-chu)。
-2. 請確認已將學生升級：[「學期編班 &gt; 複製上學期學生編班資料」](sheng-liao-guan-li.md#xue-qi-bian-ban)。（系統時間需於新學期時間範圍才能點擊此功能按鈕）
-3. 若欲於第二學期先產生編班檔，可先不進行上述兩步驟。
+{% hint style="danger" %}
+* 請確認畢業生已完成[「畢業轉出」](sheng-liao-guan-li.md#bi-ye-zhuan-chu)。
+* 請確認已將學生升級：[「學期編班 &gt; 複製上學期學生編班資料」](sheng-liao-guan-li.md#xue-qi-bian-ban)。（系統時間需於新學期時間範圍才能點擊此功能按鈕）
+{% endhint %}
+
+{% hint style="info" %}
+* 若欲於第二學期先行產生編班檔，可先不進行上述兩步驟，即可匯出編班檔案，但系統不允許未升級學生即操作寫入編班資料。
 {% endhint %}
 
 {% tabs %}
@@ -223,7 +226,8 @@
 
 {% tab title="寫入系統" %}
 {% hint style="danger" %}
-寫入系統前請再次確認編班資料，以及寫入之學期、年級，寫入後便無法回復。
+* 寫入系統前，請務必先將學生升級。
+* 請再次確認編班資料，以及寫入之學期、年級，寫入後便無法回復。
 {% endhint %}
 
 ![](../.gitbook/assets/new-semester-3.png)
