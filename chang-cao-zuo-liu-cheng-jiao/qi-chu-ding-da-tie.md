@@ -4,7 +4,7 @@ description: 本系統中所有功能模組都需要根據學期初設定才能�
 
 # 學期初設定大補帖
 
-![](../.gitbook/assets/zu-chang-zuo-ye-liu-cheng-tu.png)
+![](../.gitbook/assets/jie-tu-20200814-shang-wu-9.40.59.png)
 
 ## 資訊組
 
