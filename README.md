@@ -1,12 +1,33 @@
 ---
-description: Cloud School 校務系統為集中管理、高安全性、高擴展性，新一代雲端學務系統
+description: Cloud School 雲端校務系統為集中管理、高安全性、高擴展性的新一代學籍管理系統
 ---
 
-# 關於 Cloud School 校務系統
+# Cloud School 雲端校務系統
 
-> [www.cloudschool.com.tw](https://www.cloudschool.tw/)
+## 新推出！增值賦能產品
 
-## 系統特色
+{% hint style="info" %}
+* Cloud School 雲端校務系統擴充服務平台 [https://service.cloudedu.com.tw/](https://service.cloudedu.com.tw/)
+* 欲申請測用請來電洽詢：04-2329-5700
+{% endhint %}
+
+### Activity+ 課程報名系統
+
+Cloud School Activity+ 是專為學校打造的課程報名系統，適用於課後活動、社團、課後照護班等報名與管理。使用雲端校務系統帳號認證，學校管理者線上發佈才藝課程內容，學生、家長線上報名，可設定抽籤、候補機制，雙方即時掌握報名狀況。
+
+![](.gitbook/assets/cai-yi-bao-ming-01.png)
+
+![](.gitbook/assets/cai-yi-bao-ming-02.png)
+
+![](.gitbook/assets/cai-yi-bao-ming-03%20%281%29.png)
+
+### Cloud School HR 教職員差假
+
+Cloud School HR 是一款專為學校生態打造的人事管理系統。 適應學校多元工作夥伴及差勤制度。 更有效率地進行管理、申請與追蹤，同時解決差勤異動所帶來的課務調整需求。 讓您隨時掌握最新狀況，差勤、課務資訊不遺漏。
+
+![](.gitbook/assets/fang-an-jia-ge-feature.png)
+
+## Cloud School 雲端校務系統特色
 
 * **高擴展的雲端環境架構**
   * 採用 Ngnix HA 高可用性、易於擴展的系統環境。
@@ -31,7 +52,7 @@ description: Cloud School 校務系統為集中管理、高安全性、高擴展
   * 提供局內系統 API 介接伺服器，嚴格控管資料連線，避免資料庫連線授權浮濫。
   * 提供學校伺服器 API 介接，可透過 Restful 服務取出自己學校的學籍名單，擴展應用範圍。
 
-## 操作介面與模組功能
+## Cloud School 雲端校務系統操作介面與模組功能
 
 * **直覺式介面操作**
 

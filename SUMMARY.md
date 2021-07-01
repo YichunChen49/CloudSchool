@@ -1,6 +1,6 @@
 # Table of contents
 
-* [關於 Cloud School 校務系統](README.md)
+* [Cloud School 雲端校務系統](README.md)
 * [關於此線上教學手冊](ci-shang-jiao-shou.md)
 
 ## 常見操作流程教學 <a id="chang-cao-zuo-liu-cheng-jiao"></a>
