@@ -7,7 +7,7 @@ description: Cloud School 雲端校務系統為集中管理、高安全性、高
 ## 新推出！增值賦能產品
 
 {% hint style="info" %}
-* Cloud School 雲端校務系統擴充服務平台 [https://service.cloudedu.com.tw/](https://service.cloudedu.com.tw/)
+* [Cloud School 雲端校務系統擴充服務平台](https://lihi1.com/Sm0PM)
 * 欲申請測用請來電洽詢：04-2329-5700
 {% endhint %}
 
