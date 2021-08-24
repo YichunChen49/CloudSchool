@@ -82,3 +82,7 @@ Cloud School HR 是一款專為學校生態打造的人事管理系統。 適應
 
   文字編碼由 big5 改為 utf8mb4 ，減少姓名亂碼問題。
 
+
+
+Copyright © 2018-2021 [思騰資訊](https://www.cloudschool.com.tw/) 版權所有
+
