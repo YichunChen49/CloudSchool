@@ -33,7 +33,7 @@ Cloud School Activity+ 是專為學校打造的課程報名系統，適用於課
 
 Cloud School HR 是一款專為學校生態打造的人事管理系統。 適應學校多元工作夥伴及差勤制度。 更有效率地進行管理、申請與追蹤，同時解決差勤異動所帶來的課務調整需求。 讓您隨時掌握最新狀況，差勤、課務資訊不遺漏。
 
-![](.gitbook/assets/fang-an-jia-ge-feature.png)
+![](.gitbook/assets/fang-an-jia-ge-feature%20%281%29.png)
 
 ## Cloud School 雲端校務系統特色
 
