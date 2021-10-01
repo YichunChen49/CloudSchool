@@ -40,6 +40,7 @@
 * [技藝學程成績](jiao/ji-cheng-cheng.md)
 * [教師資料](jiao/jiao-liao.md)
 * [課表作業](jiao/biao-zuo.md)
+* [廳版學籍資料](jiao/ting-ban-xue-ji-zi-liao.md)
 
 ## 學務處 <a id="undefined"></a>
 
