@@ -91,11 +91,17 @@
 
 > 可調整「榮譽榜」模組的參數，亦可在 [模組管理](../xi-guan-li-mo/module.md#mo-guan-li) 中調整，可調整之參數如下：
 
-1. 競賽分類設定 `國際 全國 縣市 鄉鎮區 校內`
-2. 預設榮譽積分最大值 `12`
-3. 榮譽榜列表每頁筆數 `10 筆`
-4. 榮譽榜獨立頁面配色  
-   `cerulean`
+1. 競賽分類設定\
+   `國際`\
+   `全國`\
+   `縣市`\
+   `鄉鎮區`\
+   `校內`
+2. 預設榮譽積分最大值\
+   `12`
+3. 榮譽榜列表每頁筆數\
+   `10 筆`
+4.  榮譽榜獨立頁面配色\
+    `cerulean`
 
-   配色參考: [https://www.bootstrapcdn.com/bootswatch/](https://www.bootstrapcdn.com/bootswatch/)
-
+    配色參考: [https://www.bootstrapcdn.com/bootswatch/](https://www.bootstrapcdn.com/bootswatch/)

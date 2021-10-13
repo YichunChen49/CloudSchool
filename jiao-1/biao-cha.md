@@ -20,13 +20,13 @@ description: 本模組包含課表查詢及專科教室預約功能。
 
 ## 專科教室課表
 
-![&#x82E5;&#x7121;&#x5C08;&#x79D1;&#x6559;&#x5BA4;&#xFF0C;&#x8ACB;&#x5728;&#x5B78;&#x671F;&#x521D;&#x8A2D;&#x5B9A;&#x4E4B; &amp;lt;&amp;lt;&#x5C08;&#x79D1;&#x6559;&#x5BA4;&amp;gt;&amp;gt; &#x8A2D;&#x5B9A;&#x6307;&#x5B9A;&#x4E4B;&#x5C08;&#x79D1;&#x6559;&#x5BA4;&#x5982;&#x4E0B;&#x5716;&#x793A;&#x3002;](../.gitbook/assets/classroom-query1%20%281%29.png)
+![若無專科教室，請在學期初設定之 <<專科教室>> 設定指定之專科教室如下圖示。](<../.gitbook/assets/classroom-query1 (1).png>)
 
-![&#x5C08;&#x79D1;&#x6559;&#x5BA4;&#x8AB2;&#x8868;&#xFF0C;&#x9808;&#x5728;&#x5B78;&#x671F;&#x521D;&#x8A2D;&#x5B9A;&#x4E4B; &amp;lt;&amp;lt;&#x8AB2;&#x8868;&amp;gt;&amp;gt; &#x6307;&#x5B9A;&#x4EFB;&#x8AB2;&#x6559;&#x5E2B;&#x4E0A;&#x8AB2;&#x4F7F;&#x7528;&#x4E4B;&#x5C08;&#x79D1;&#x6559;&#x5BA4;&#x3002;](../.gitbook/assets/classroom-query2.png)
+![專科教室課表，須在學期初設定之 <<課表>> 指定任課教師上課使用之專科教室。](../.gitbook/assets/classroom-query2.png)
 
 ## 空堂查詢
 
-![&#x672C;&#x529F;&#x80FD;&#x67E5;&#x8A62;&#x5404;&#x7BC0;&#x6B21;&#x8A72;&#x7BC0;&#x7A7A;&#x5802;&#x6559;&#x5E2B;&#x540D;&#x55AE;&#x3002;](../.gitbook/assets/break-time.png)
+![本功能查詢各節次該節空堂教師名單。](../.gitbook/assets/break-time.png)
 
 ## 預約專科教室
 
@@ -38,8 +38,7 @@ description: 本模組包含課表查詢及專科教室預約功能。
 * 專科教室預約設定，請在學期初設定之專科教室內設定。
 
 {% hint style="info" %}
-要調整「專科教室預約限定期間日數」（預設為14日），請系統管理員到「系統管理 &gt; 模組管理」調整，如下圖：
+要調整「專科教室預約限定期間日數」（預設為14日），請系統管理員到「系統管理 > 模組管理」調整，如下圖：
 {% endhint %}
 
 ![](../.gitbook/assets/order-room-2.png)
-

@@ -1,8 +1,8 @@
-# 停課學生關懷紀錄\(限臺中市\)
+# 停課學生關懷紀錄(限臺中市)
 
 {% tabs %}
 {% tab title="模組建置" %}
-**1.如何新增關懷模組\(建議行政人員操作\)**
+**1.如何新增關懷模組(建議行政人員操作)**
 
 * 請至`系統管理`
 * 選擇`模組管理`
@@ -11,7 +11,7 @@
 
 {% file src="../.gitbook/assets/1.-ru-he-xin-zeng-guan-huai-mo-zu.mp4" %}
 
-**2.如何開放填報功能給導師\(建議行政人員操作\)**
+**2.如何開放填報功能給導師(建議行政人員操作)**
 
 * 請至`系統管理`
 * 選擇`模組管理`
@@ -25,10 +25,20 @@
 
 ![](../.gitbook/assets/ting-ke-xue-sheng-guan-huai-li-an-1.png)
 
-* 新增**個案資料**   ![](../.gitbook/assets/ting-ke-xue-sheng-guan-huai-li-an-2.png)  1.輸入**案名** 2.選擇**停課原因** 3.輸入**原因簡述** 4.選擇**開始/結束日期** 5.選擇**停課對象** 6.填寫以上資料後請**`存檔`** 7.若要關閉視窗請點擊**`關閉`** 8.若該案**已結案**，**請打勾** 
+* 新增**個案資料** \
+   ![](../.gitbook/assets/ting-ke-xue-sheng-guan-huai-li-an-2.png) \
+  1.輸入**案名**\
+  2.選擇**停課原因**\
+  3.輸入**原因簡述**\
+  ****4.選擇**開始/結束日期**\
+  ****5.選擇**停課對象**\
+  ****6.填寫以上資料後請**`存檔`**\
+  7.若要關閉視窗請點擊**`關閉`**\
+  ****8.若該案**已結案**，**請打勾**\
+
 * 修改**個案資料**
 * 刪除**個案資料**
-* 檢視**個案填報狀況**  
+* 檢視**個案填報狀況 ** 
 
 ![](../.gitbook/assets/ting-ke-xue-sheng-guan-huai-li-an-3.png)
 
@@ -75,27 +85,35 @@
 
 ![](../.gitbook/assets/ting-ke-xue-sheng-guan-huai-ji-lu-tian-bao-1.png)
 
-1. **新增學生關懷紀錄**  ![](../.gitbook/assets/ting-ke-xue-sheng-guan-huai-ji-lu-tian-bao-2.png)  一.選擇實施起訖日期 二.填寫實施的科目 三.填寫實施的方式 四.填寫實施方式說明 五.填寫完畢請`存檔` 六.點選`關閉`可離開新增視窗 
-2. **可編輯學生關懷紀錄** 
-3. **導師填寫關懷紀錄**  
+1. **新增學生關懷紀錄**\
+    ![](../.gitbook/assets/ting-ke-xue-sheng-guan-huai-ji-lu-tian-bao-2.png) \
+   一.選擇實施起訖日期\
+   二.填寫實施的科目\
+   三.填寫實施的方式\
+   四.填寫實施方式說明\
+   五.填寫完畢請`存檔`\
+   六.點選`關閉`可離開新增視窗\
 
+2. **可編輯學生關懷紀錄**\
+   ****
+3.  **導師填寫關懷紀錄**\
+    ****
 
-    ****![](../.gitbook/assets/ting-ke-xue-sheng-guan-huai-ji-lu-tian-bao-3.png) 
+    ** **![](../.gitbook/assets/ting-ke-xue-sheng-guan-huai-ji-lu-tian-bao-3.png) 
 
-   > * 填寫`輔導措施`
-   > * 填寫`聯繫狀況`
-   > * 填寫`學生狀況`
-
+    > * 填寫`輔導措施`
+    > * 填寫`聯繫狀況`
+    > * 填寫`學生狀況`
 4. **刪除紀錄**
-5. **可將停課關懷紀錄複製至輔導訪談紀錄**  ![](../.gitbook/assets/ting-ke-xue-sheng-guan-huai-ji-lu-tian-bao-4.png)  ****
+5. **可將停課關懷紀錄複製至輔導訪談紀錄 **\
+   ****![](../.gitbook/assets/ting-ke-xue-sheng-guan-huai-ji-lu-tian-bao-4.png) \
+   ****
 
 ※填報教學影片
 
 {% file src="../.gitbook/assets/4.-ru-he-tian-bao.mp4" %}
 {% endtab %}
 {% endtabs %}
-
-
 
 
 
