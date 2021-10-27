@@ -4,35 +4,35 @@
 
 ![](../.gitbook/assets/counseling1.png)
 
-1.  學生輔導紀錄預設只能記錄當學期資料，如欲修改為可記錄其他學期，請點選 **「參數設定」** ，並將 **「允許修改本學期之前的輔導資料」**設為 **「是」** 。
-2.   要登錄資料，請按 **「登錄」** 按鈕，進入編修頁面如下圖。 \
-     
+1. &#x20;學生輔導紀錄預設只能記錄當學期資料，如欲修改為可記錄其他學期，請點選 **「參數設定」** ，並將 **「允許修改本學期之前的輔導資料」**設為 **「是」** 。
+2.  &#x20;要登錄資料，請按 **「登錄」** 按鈕，進入編修頁面如下圖。 \
+    &#x20;
 
-    ![](../.gitbook/assets/student_counseling_record.png)
+    ![](../.gitbook/assets/student\_counseling\_record.png)
 3. 請選擇學期。
 4. 再選擇學生後，請依該生狀況輸入或選擇適合條件選項。
 5. 輸入完成後，請按 **「儲存」** 按鈕儲存紀錄。
 
 ## 學生訪談記錄
 
-![](../.gitbook/assets/student_interview_record.png)
+![](../.gitbook/assets/student\_interview\_record.png)
 
 1.要登錄資料，請按 **「登錄」** 按鈕，進入編修頁面如下圖。
 
-![](../.gitbook/assets/student_interview_record2.png)
+![](../.gitbook/assets/student\_interview\_record2.png)
 
 2.請選擇班級及學生。\
 3\. 如果要刪除，請按 **「刪除」** 按鈕，於確認刪除後會刪除該筆資料；修改該生該筆資料，請按 **「修改」** 按鈕，並於跳出視窗內修改該筆紀錄。\
 4.列印學生訪談紀錄。\
 5\. 要新增紀錄，請按 **「新增紀錄」** 按鈕，會跳出視窗如下圖。\
-![](../.gitbook/assets/student_interview_record3.png) 
+![](../.gitbook/assets/student\_interview\_record3.png)&#x20;
 
 * 請在表單內容輸入紀錄。
 * 輸入完成後，請按 **「儲存」** 按鈕。
 * 不要輸入或放棄編輯，請按 **「關閉」** 按鈕關閉該視窗。
 
 6.若某生有多筆資須輸入，可以使用快貼功能，如下圖。 \
-![](../.gitbook/assets/student_interview_record4.png) 
+![](../.gitbook/assets/student\_interview\_record4.png)&#x20;
 
 * 點選使用說明。
 * 下載範例檔。
@@ -40,7 +40,7 @@
 
 ## 訪談記錄（班級）
 
-![](../.gitbook/assets/class_interveiew_record.png)
+![](../.gitbook/assets/class\_interveiew\_record.png)
 
 1. 選擇學期及班級可以列出該班在該學期之訪談紀錄列表。
 2. 下載訪談記錄。
@@ -48,17 +48,17 @@
 
 ## 特殊表現
 
-![](../.gitbook/assets/special_behavior.png)
+![](../.gitbook/assets/special\_behavior.png)
 
 1.要登錄資料，請按 **「登錄」** 按鈕，進入編修頁面如下圖。
 
-![](../.gitbook/assets/special_behavior2.png)
+![](../.gitbook/assets/special\_behavior2.png)
 
 2.請先選擇班級及學生後，會列出該生紀錄。\
 3.如果要刪除，請按 **「刪除」** 按鈕，於確認刪除後會刪除該筆資料；修改該生該筆資料，請按 **「修改」** 按鈕，並於跳出視窗內修改該筆紀錄。\
 4.要新增紀錄，請按 **「新增紀錄」** 按鈕，會跳出視窗如下圖。
 
-![](../.gitbook/assets/special_behavior3.png)
+![](../.gitbook/assets/special\_behavior3.png)
 
 5.請選擇學期，並在表單內容輸入紀錄。\
 6.輸入完成後，請按 **「儲存」** 按鈕。\
@@ -66,28 +66,28 @@
 
 ## 心理測驗
 
-![](../.gitbook/assets/psychological_test.png)
+![](../.gitbook/assets/psychological\_test.png)
 
 1.如果要登錄當學期紀錄，請點選 **「登錄」** 按鈕，進入編修頁面如下圖。\
 2.要觀看舊紀錄，請點選 **「查看」** 按鈕，進入查看資料模式。
 
-![](../.gitbook/assets/psychological_test2.png)
+![](../.gitbook/assets/psychological\_test2.png)
 
 3.要列印班級學生之測驗紀錄，請點選 **「列印本學期測驗」** 按鈕。\
 4.要新增管理測驗，請點選 **「編修心理測驗」** 按鈕，會跳出新視窗如下圖。
 
-> ![](../.gitbook/assets/psychological_test3.png) \
->  1.要新增測驗請點選 **「新增測驗」** 按鈕，會在原視窗下方出現表單，如下圖。
+> ![](../.gitbook/assets/psychological\_test3.png) \
+> &#x20;1.要新增測驗請點選 **「新增測驗」** 按鈕，會在原視窗下方出現表單，如下圖。
 
-> > ![](../.gitbook/assets/psychological_test4.png) \
-> >  於輸入相關資料後，按 **「儲存」** 按鈕即可新增一個心理測驗。
+> > ![](../.gitbook/assets/psychological\_test4.png) \
+> > &#x20;於輸入相關資料後，按 **「儲存」** 按鈕即可新增一個心理測驗。
 
 > 2.如果要刪除測驗，請按 **「刪除」** 按鈕，於確認刪除後會刪除該筆資料；修改該筆資料，請按 **「修改」** 按鈕，並於下方的表單內修改該筆紀錄。\
 > 3.編修完畢，請按 **「存檔」** 。
 
 5\. 於測驗完畢後，要輸入學生成績紀錄，可以使用快貼方式快速輸入成績紀錄，請按 **「快貼批次匯入」** 按鈕，會跳出新視窗如下圖。
 
-> ![](../.gitbook/assets/psychological_test5.png) 
+> ![](../.gitbook/assets/psychological\_test5.png)&#x20;
 >
 > 1. 請選擇測驗項目，若尚未新增測驗，請至 **「編修心理測驗」** 功能新增測驗。
 > 2. 將測驗資料填入區塊 2。
@@ -97,7 +97,7 @@
 
 6\. 也可以逐筆輸入或修改學生成績紀錄，請選擇學生後按 **「新增 XXX心理測驗」** 按鈕，跳出新視窗如下圖。
 
-![](../.gitbook/assets/psychological_test6.png)
+![](../.gitbook/assets/psychological\_test6.png)
 
 {% hint style="info" %}
 於表單內如輸入該生成績資料，並按「儲存」按鈕即可。
@@ -105,7 +105,7 @@
 
 ## 參數設定
 
-![](<../.gitbook/assets/parameter_setting (2).png>)
+![](<../.gitbook/assets/parameter\_setting (2).png>)
 
 1. 點選「**參數設定**」後，進入參數設定頁面
 2. 根據圖中參數選項進行設定。
