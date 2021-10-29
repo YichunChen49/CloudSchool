@@ -4,7 +4,7 @@
 
 本功能是統計導師填寫班級輔導紀錄狀況，請點選學期，呈現如下圖。
 
-![](../.gitbook/assets/fillin_status.png)
+![](../.gitbook/assets/fillin\_status.png)
 
 1. 請選擇要查詢的統計項目。
 2. 在下方會出現所有班級的填寫狀況。
@@ -13,13 +13,13 @@
 
 本功能是統計導師填寫班級訪談紀錄狀況，請點選學期，呈現如下圖。
 
-![](../.gitbook/assets/fillin_status2.png)
+![](../.gitbook/assets/fillin\_status2.png)
 
 ## 輔導記錄統計
 
 本功能是統計各項紀錄狀況，請點選學期，呈現如下圖。
 
-![](../.gitbook/assets/statistics%20%281%29.png)
+![](<../.gitbook/assets/statistics (1).png>)
 
 1. 點選統計類別
 2. 下方會出現該類別之統計圖表及數據。
@@ -28,13 +28,9 @@
 
 本功能可以列印各學年各班學生的輔導紀錄資料。
 
-![](../.gitbook/assets/counseling_record_printing.png)
+![](../.gitbook/assets/counseling-query-record-print.png)
 
-1. 選擇學年及班級。
-2. 勾選學生。
-3. 點選確定。
-
-{% hint style="info" %}
-若要勾選整班學生，可以直接點擊全選鍵
-{% endhint %}
-
+1. 選擇**「學年」**及**「班級」**。
+2. 勾選是否**「列印職章」**
+3. 勾選**「學生」**，或點擊**「全選」**勾選整班學生。
+4. 點選**「確定」**即開啟新分頁，可列印學生輔導資料紀錄表。
