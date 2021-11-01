@@ -9,7 +9,7 @@
     > 將相關設定設好, 尤其要注意選課時間的設定
 3. 新增本學期的社團
    * 將社團指導老師的社團資料逐筆輸入。請注意年級別要正確。
-   * 踦年級的社團, 不建議開放選課, 請先手動直接選擇學員,再使用自動分配。
+   * 跨年級的社團, 不建議開放選課, 請先手動直接選擇學員,再使用自動分配。
    * 如果跨年級社團仍要開放選課, 建議做法是依年級分成多個社團的方式處理。例如：合唱團是跨年級社團，可招收一年級和二年級的學生，總共要招收60位，那麼在系統這邊新增社團時，就分別針對一年級和二年級都各開設一個合唱團社團，兩個社團總人數仍維持60人即可。
 4. 進行選課
    * 提醒學生，選課的地方在【**學生作業**】模組的「**社團選課**」選項中。
@@ -32,13 +32,13 @@
 
 ## 社團一覽表
 
-![](../.gitbook/assets/club_list.png)
+![](../.gitbook/assets/club\_list.png)
 
 本功能列出已設定的社團、社團教師、已編組學生等。
 
 ## 成績輸入
 
-![](../.gitbook/assets/score_input.png)
+![](../.gitbook/assets/score\_input.png)
 
 1. 社團指導老師可選擇自己指導的社團進行成績輸入。
 2. 輸入項目包含成績、職位、學習描述。
@@ -46,23 +46,23 @@
 
 ## 社團管理
 
-![](<../.gitbook/assets/club_management (1).png>)
+![](<../.gitbook/assets/club\_management (1).png>)
 
 1.  學期初設定\
-     ![](../.gitbook/assets/begining-of-semster_setting.png) 
+    &#x20;![](../.gitbook/assets/manager2.png)&#x20;
 
     ● 請逐項依照貴校需求填入資料。
 
     ● 儲存。\
 
 2. 新增社團\
-   ![](../.gitbook/assets/increase_club.png) \
-    將社團指導老師的社團資料逐筆輸入。請注意年級別要正確。\
+   ![](../.gitbook/assets/increase\_club.png) \
+   &#x20;將社團指導老師的社團資料逐筆輸入。請注意年級別要正確。\
 
-3. 刪除不需要的社團，請點該社團之「**刪除**」按鈕，但若該社團已有編入學生，請先刪除邊入學生資料才可刪除。若要修改該社團設定，請按「**修改**」按鈕。\
+3. 刪除不需要的社團，請點該社團之「**刪除**」按鈕，但若該社團已有編入學生，請先刪除編入學生資料才可刪除。若要修改該社團設定，請按「**修改**」按鈕。\
 
 4.  複製上學期社團 \
-    ![](../.gitbook/assets/copy_last-semester_club.png) \
+    ![](../.gitbook/assets/copy\_last-semester\_club.png) \
     ● 複製本學期之前的社團，省去逐筆設定社團，也可一併複製該社團學生。
 
     ● 請先選擇要複製的社團，如果出現的是已存在，為該社團在本學期已重複。
@@ -70,7 +70,7 @@
     ● 要一併複製社團學生，請先勾選該社團，只勾選複製學生，系統不會處理。\
 
 5.  統一設定通過分數\
-     ![](../.gitbook/assets/unity_setting_pass-score.png) 
+    &#x20;![](../.gitbook/assets/unity\_setting\_pass-score.png)&#x20;
 
     ● 本功能是將有社團同時輸入統一分數，您仍可針對個別社團進行分數調整。
 
@@ -79,25 +79,32 @@
     ● 若貴校不需認證，則請輸入 0 分。\
 
 6. 手動編班\
-    ![](../.gitbook/assets/manual_edit_class.png) \
+   &#x20;![](../.gitbook/assets/manual\_edit\_class.png) \
    1.選擇班級。\
    2.選擇學生，若要選擇班級所有學生，請勾選「**全選**」。\
    3.可以顯示已編班的學生狀況，若要刪除學生，請點擊「**刪除**」圖示；刪除全部學生，請點擊「**全部刪除**」。
 
- 
+&#x20;
 
 ## 社團編班
 
-![](../.gitbook/assets/club_edit_class.png)
+![](../.gitbook/assets/club\_edit\_class.png)
 
 1. 選擇年級。
 2. 可檢視各年級社團內容。
 3. 可檢視各年級社團學生明細。
 4. 若需檢視尚未選課和編班的學生，請點擊「**未選課、編班名單**」。\
-   ![](../.gitbook/assets/unselected_club_list.png) 
-5. 學生填寫志願期限過後，就可以按「開始編班」按鈕，系統就開始依據社團設定及學生填之志願編班。
+   ![](../.gitbook/assets/unselected\_club\_list.png)&#x20;
+5. 學生填寫志願期限過後，就可以按**「開始編班」**按鈕，系統就開始依據社團設定及學生填之志願編班。
 6. 系統提供下載各年級學生選填社團志願的狀況。
 7. 若要刪除當學期社團編班記錄，請點擊「**清除鍵**」。
+
+## 社團成績繳交狀況
+
+![](<../.gitbook/assets/score-manage (2).png>)
+
+1. 選擇**「學年」**，該學期社團成績繳交狀況將顯示於下方資訊欄&#x20;
+2. 點選放大鏡圖示可顯示該社團成績輸入內容
 
 ## 報表列印
 
@@ -105,7 +112,7 @@
 {% tab title="班級名單" %}
 此功能可以查詢和列印班級的社團資料。
 
-![](../.gitbook/assets/print_class_list.png)
+![](../.gitbook/assets/print\_class\_list.png)
 
 1. 選擇學年和班級。
 2. 可選擇列印該班社團記錄或是該年級社團記錄。
@@ -115,7 +122,7 @@
 {% tab title="社團名單" %}
 此功能可以查詢和列印每個年級的社團資訊。
 
-![](../.gitbook/assets/print_club_list.png)
+![](../.gitbook/assets/print\_club\_list.png)
 
 1. 選擇學年和年級。
 2. 可列印年級社團名單以及下載社團名冊excel。
@@ -124,7 +131,7 @@
 {% tab title="學生歷年資料" %}
 此功能可以查詢和列印學生歷年來的社團紀錄。
 
-![](../.gitbook/assets/print_stud_past-years_data.png)
+![](../.gitbook/assets/print\_stud\_past-years\_data.png)
 
 1. 選擇學期和班級。
 2. 若有選擇全班學生，請勾選「**全選**」；若資料需含成績，請勾選「**含成績**」。
@@ -138,19 +145,19 @@
 {% tab title="學期成績補登" %}
 本功能可以補登學生社團成績及學習描述。
 
-![](../.gitbook/assets/semester_score_make-up.png)
+![](../.gitbook/assets/semester\_score\_make-up.png)
 
 1. 請選擇學期和社團名稱。
 2. 輸入成績、職稱及學習描述。
 3. 輸入完畢請點選「**儲存**」。
-4. 若要一次輸入多筆資料，可以點擊「**快貼成績**」。 ![](../.gitbook/assets/semester_score_make-up2.png) \
+4. 若要一次輸入多筆資料，可以點擊「**快貼成績**」。 ![](../.gitbook/assets/semester\_score\_make-up2.png) \
    依照「**快貼說明**」操作，即可完成作業。
 {% endtab %}
 
 {% tab title="轉學生補登他校成績" %}
 本功能可以補登轉入學生之社團資料。
 
-![](../.gitbook/assets/transfer_stud_other-school_score.png)
+![](../.gitbook/assets/transfer\_stud\_other-school\_score.png)
 
 1. 請選擇轉入學期後，下方出現轉入生學號、姓名，請點選該生姓名，下方就會出現輸入表單。
 2. 輸入後，請按「**新增**」按鈕儲存。
