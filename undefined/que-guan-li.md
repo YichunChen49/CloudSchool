@@ -2,36 +2,40 @@
 
 ## 缺曠課登記
 
-![](../.gitbook/assets/lack_class_register.png)
+![](<../.gitbook/assets/absent-sign (1).png>)
 
 1. 缺曠課登記只能處理當學期學生缺曠課資料，請先選擇班級及要登錄之日期。
 2. 依照請假學生請假節數及假別個別登錄。
 3. 登錄完畢請按 「**儲存登記**」 按鈕。
-4. 如果學生請假一天，可以點選該生整天打勾按鈕，但需請設定整天有無包含升降旗，勾選後也可以針對個別節次或升降旗修改。
+4. 如果學生請假一天，可以點選該生整天打勾按鈕。
 5. 可以快速輸入學號及班級座號找到登錄學生登錄缺曠課。
+
+{% hint style="info" %}
+整天有無包含升降旗請至[ 參數設定 ](que-guan-li.md#can-shu-she-ding)中調整。
+{% endhint %}
 
 ### 修改假別
 
-![](../.gitbook/assets/sign-edit.png)
+![](../.gitbook/assets/absent-sign-edit.png)
 
 1. 找到學生缺曠紀錄，調整**「假別選單」**。
 2. 按下**「儲存登記」**。
 
 ## 團體登記
 
-![](../.gitbook/assets/group_register.png)
+![](../.gitbook/assets/group\_register.png)
 
 1.本功能適合於輸入較多學生請相同假別(如團體比賽)之登錄，請先選擇要登錄之日期。\
 2.可以利用學號搜尋學生，適合單一假別登錄之操作。\
 3.請先選擇學生，請按 「**選擇學生**」 按鈕。
 
-![](../.gitbook/assets/group_register2.png)
+![](../.gitbook/assets/group\_register2.png)
 
 4.於跳出視窗內選擇班級。\
 5.請選擇該班學生，可個別選或選全班，也可更換班級繼續選擇學生。\
 6.完成選擇學生後，請按 「**確定選擇**」會自動關閉視窗回到上一頁。
 
-![](<../.gitbook/assets/group_register3 (1).png>)
+![](<../.gitbook/assets/group\_register3 (1).png>)
 
 7.在視窗內右方會出現上一步驟所選學生人數及姓名，如要去除可直接點選姓名右方「**刪除**」圖示移除該學生\
 8.於登錄日期內選擇節次、整天或多天作設定。\
@@ -42,13 +46,13 @@
 
 {% tabs %}
 {% tab title="缺曠課明細" %}
-![](../.gitbook/assets/lack_class_detail.png)
+![](../.gitbook/assets/lack\_class\_detail.png)
 
 1.本功可列出全班或個人缺曠課明細，統計國中以節數為統計單位;國小以日數為統計單位，不足1日不列入統計;集會只統計升降旗曠課的學生列出全班明細，請先選擇班級，不選擇學生。\
 2.請輸入統計日期期限，下方即會列出全班明細。\
 3.可以利用班級座號或是學號搜尋學生缺曠課明細
 
-![](../.gitbook/assets/lack_class_detail2.png)
+![](../.gitbook/assets/lack\_class\_detail2.png)
 
 4.選擇個別學生下方會分別列出請假明細及請假類別統計時數統計。\
 5.按 「**友善列印**」可以列印出該生個人勤惰明細表。\
@@ -58,7 +62,7 @@
 {% tab title="缺曠課統計明細" %}
 此功能為列印班級學生缺曠課假別統計
 
-![](../.gitbook/assets/lack_class_detail3.png)
+![](../.gitbook/assets/lack\_class\_detail3.png)
 
 1. 選擇班級。
 2. 選擇開始日期以及結束日期。
@@ -70,47 +74,80 @@
 
 此功能可以檢視當學期各班缺曠課紀錄以及學生個人歷年紀錄。
 
-![](../.gitbook/assets/semester_lack_class_statistics.png)
+![](../.gitbook/assets/semester\_lack\_class\_statistics.png)
 
 1. 選擇班級。
 2. 點擊「**學生姓名**」可以檢視學生各個學期缺曠課次數統計，如下圖。\
-    ![](../.gitbook/assets/semester_lack_class_statistics2.png) \
+   &#x20;![](../.gitbook/assets/semester\_lack\_class\_statistics2.png) \
    \*點擊「**關閉**」可以回到原來的頁面。
 3. 列印本學期缺曠課統計表。
 
-## 缺曠課週報表
+## 缺曠課報表
+
+### 缺曠課週明細
 
 本功能提供列印以及下載週報表列印功能，請選擇要列印周次。
 
-![](../.gitbook/assets/lack_class_week_report.png)
+![](../.gitbook/assets/absent-report.png)
 
-1. 按「**分班列印**」可列印各班周報表提供各班張貼。
-2. 也可按「**合班列印**」提供全校公告。
-3. 按「**列印通知書**」，可列印各學生通知家長通知書。
+1. 請選擇**「學期」**及**「週次」**
+2. 點擊**「分班列印」**可列印／下載各班週報表提供各班張貼。
+3. 也可點擊**「合班列印」**列印／下載合班週報表提供全校公告。
+4. 點擊**「列印通知書」**，可列印各學生通知家長通知書。
+
+### 缺曠課月報表
+
+![](<../.gitbook/assets/period-report (1).png>)
+
+1. 請選擇**「學期**」、**「統計月份」**及**「統計起訖日」**。
+2. 點擊**「分班列印」**可列印／下載各班月報表提供各班張貼。&#x20;
+3. 點擊**「合班列印」**列印／下載合班週報表提供全校公告。
+
+### 班級歷年缺曠課統計報表
+
+![](../.gitbook/assets/absent-class-detail.png)
+
+1. 請選擇**「班級」**。
+2. 點擊**「列印」**可列印班級歷年缺曠課統計報表。
 
 ## 缺曠高風險學生
 
-![](../.gitbook/assets/high_risk_stud.png)
+![](../.gitbook/assets/absent-semester-rank.png)
 
 本功能依各項假別查詢請假排序，以提供學生請假狀況，觀察是否列入高風險個案之可能，預防中輟情狀發生。
 
 ## 轉入生資料補登
 
-![](../.gitbook/assets/transfer_stud_register.png)
+### 學期缺勤紀錄
 
-1. 選擇轉入學期。
+![](../.gitbook/assets/absent-patch.png)
+
+1. 選擇**「轉入學期」**。
 2. 選擇轉入學生並進行缺曠課補登。
-3. 根據對應的欄位填入學生缺曠課紀錄並新增。
+3. 根據對應的欄位填入學生缺曠課紀錄並**「新增」**。
 
 {% hint style="info" %}
 學期請輸入學年+學期別, 如: 99學年第1學期, 則輸入 991 。
+{% endhint %}
+
+### 缺勤明細紀錄
+
+![](../.gitbook/assets/absent-detail-patch.png)
+
+1. 選擇**「轉入學期」**。
+2. 選擇轉入學生並進行缺曠課補登。
+3. 根據對應的欄位勾選學生缺曠課紀錄並**「儲存」**。
+
+{% hint style="info" %}
+* 學期會由請假日期自動判別學期。
+* 如果選擇之節次原有其他假別將會被新的假別覆蓋。
 {% endhint %}
 
 ## 參數設定
 
 點選「**參數設定**」後，進入參數設定頁面
 
-![](<../.gitbook/assets/parameter_setting (3).png>)
+![](../.gitbook/assets/absent-params.png)
 
 1. 可以進行各項參數的調整。
 2. 操作完點擊「儲存設定」即可完成。
