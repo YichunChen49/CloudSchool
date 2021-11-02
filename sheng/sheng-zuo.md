@@ -21,16 +21,18 @@
 {% endtab %}
 
 {% tab title="兄弟姊妹資料" %}
-![](../.gitbook/assets/stud-items3.png)
+![](../.gitbook/assets/stud-items-sibling1.png)
 
-1.  &#x20;要新增兄弟姊妹資料請按 **「新增資料」** 按鈕，會跳出新視窗如下圖。 &#x20;
+1. &#x20;要新增兄弟姊妹資料請按 **「新增資料」** 按鈕，會跳出新視窗。於填寫資料完成後，按 **「確定」** 按鈕儲存。
+2. 要修改已經建立之兄弟姊妹資料，請點擊該筆資料列上之 **「修改」** 按鈕，會跳出修改資料之新視窗，於修改後按 **「確定」** 按鈕儲存。
+3. 要刪除已經建立的兄弟姊妹資料，請點擊該筆資料列上之 **「刪除」** 按鈕，於確定刪除後刪除該筆資料。
+{% endtab %}
 
-    \
-    &#x20;於填寫資料完成後，按 **「確定」** 按鈕儲存。
+{% tab title="輔導紀錄" %}
+![](../.gitbook/assets/stud-items-counseling-sign.png)
 
-    ![](../.gitbook/assets/stud-items4.png)
-2. 要修改已經建立之兄弟姊妹資料，請按該筆資料列上之 **「修改」** 按鈕，會跳出修改資料之新視窗，於修改後按 **「確定」** 按鈕儲存。
-3. 要刪除已經建立的兄弟姊妹資料，請按該筆資料列上之 **「刪除」** 按鈕，於確定刪除後刪除該筆資料。
+1. 請依家庭狀況輸入或選擇適合條件選項。
+2. 輸入完成後，請按 **「儲存」** 按鈕儲存紀錄。
 {% endtab %}
 {% endtabs %}
 
@@ -62,16 +64,32 @@
 1. 請先選擇要查詢之學期。
 2. 在下方就會顯示該學期之成績紀錄。
 {% endtab %}
+
+{% tab title="技藝學程成績紀錄" %}
+![本功能會列出學生所有系統內已登錄之技藝學程成績。](../.gitbook/assets/stud-items-particular-score.png)
+{% endtab %}
 {% endtabs %}
 
-## 服務學習
+## 幹部服務學習
 
-![本功能會列出學生所有系統內已登錄之服務學習時數紀錄。](../.gitbook/assets/stud-items9.png)
+{% tabs %}
+{% tab title="幹部紀錄" %}
+![本功能會列出學生所有系統內已登錄之幹部紀錄。](../.gitbook/assets/stud-items-leader-list.png)
+
+
+{% endtab %}
+
+{% tab title="服務紀錄" %}
+![本功能會列出學生所有系統內已登錄之服務學習時數紀錄。](../.gitbook/assets/stud-items-service-list.png)
+
+
+{% endtab %}
+{% endtabs %}
 
 ## 社團活動
 
 {% tabs %}
-{% tab title="社團活動一覽表" %}
+{% tab title="社團列表" %}
 ![本功能會列出本校開設之社團資訊。](../.gitbook/assets/stud-items10.png)
 {% endtab %}
 
@@ -86,6 +104,17 @@
 {% tab title="社團記錄及個人省思" %}
 ![本功能會列出學生個人參與社團之紀錄，並可編輯自我省思。](../.gitbook/assets/stud-items12.png)
 
-![點擊編輯自我省思，產生視窗如下圖。](../.gitbook/assets/stud-items13.png)
+點擊編輯自我省思，產生視窗如下圖
+
+![](../.gitbook/assets/stud-items13.png)
 {% endtab %}
 {% endtabs %}
+
+## 體適能紀錄
+
+![本功能會列出學生所有系統內已登錄之體適能紀錄。](../.gitbook/assets/stud-fitness-record.png)
+
+## 個人競賽紀錄
+
+![本功能會列出學生所有系統內已登錄之個人競賽紀錄。](../.gitbook/assets/stud-race-record.png)
+
