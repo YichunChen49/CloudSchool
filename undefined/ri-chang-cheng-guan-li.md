@@ -2,59 +2,102 @@
 
 ## 統計日常成績
 
-![](../.gitbook/assets/statistics_daily_performance.png)
+![](../.gitbook/assets/statistics\_daily\_performance.png)
 
 本項作業列出各學期之獎懲及缺勤統計。
 
 ## 日常描述文字輸入
 
-![](../.gitbook/assets/daily_descriptive_text_input.png)
+![](../.gitbook/assets/behavior-input1.png)
 
-1.選擇學期和班級。  
-2.點擊「**編輯描述文字說明**」並輸入文字，如下圖。
+1.選擇編輯本學期或查看舊學期資料。
 
-![](../.gitbook/assets/daily_descriptive_text_input2.png)
+![](../.gitbook/assets/behavior-input2.png)
 
-3.在欄位中輸入學生日常行為表現描述文字說明。  
-4.輸入完點擊「**儲存**」即可完成操作。
+2.選擇**「班級」。**\
+3.點擊「**編輯描述文字說明**」並輸入文字，如下圖。
 
-## 設定檢核表
+![](../.gitbook/assets/behavior-input3.png)
 
-![](../.gitbook/assets/set_check-list.png)
+4.在欄位中輸入學生日常行為表現描述文字說明。\
+5.輸入完點擊「**儲存**」即可完成操作。
 
-1.可以選擇系統提供的國中及國小預設項目或是複製學校上學期的設定。  
-2.增加主項目\(如圖示項目:愛整潔、守秩序..\) 請按「**加入主項目**」按鈕，於輸入文字之後按「**OK**」按鈕，即可加入主項目，如下圖。 ![](../.gitbook/assets/set_check-list3.png) 
+{% hint style="info" %}
+如需編輯非本學期資料，請至[參數設定](ri-chang-cheng-guan-li.md#can-shu-she-ding)更改權限。
+{% endhint %}
 
-![](../.gitbook/assets/set_check-list2.png)
+## 日常檢核表
 
-3.主項目右方之編輯按鈕，可以修改主項目名稱，刪除按鈕可以刪除主項目，但是必須主項目下沒有附屬項目才可刪除。  
-4.主項目右方之上下按鈕，是可以調整主項目之順位。當主項目順位調整時，附屬項目會隨著主項目一起調整。  
-5.主項目右方之加號按鈕，可以增加附屬項目\(如圖式主項目 愛整潔 下之 能保持衣著儀容整潔\)。  
-6.附屬項目右方之編輯按鈕，可以修改附屬項目名稱，刪除按鈕可以刪除附屬項目。  
+{% tabs %}
+{% tab title="設定檢核表" %}
+![](../.gitbook/assets/behavior-check-list1.png)
+
+1.選擇編輯本學期或查看舊學期資料後進入編修畫，如下圖。
+
+![](../.gitbook/assets/set\_check-list.png)
+
+1.可以選擇系統提供的國中及國小預設項目或是複製學校上學期的設定。\
+2.增加主項目(如圖示項目:愛整潔、守秩序..) 請按「**加入主項目**」按鈕，於輸入文字之後按「**OK**」按鈕，即可加入主項目，如下圖。
+
+&#x20;![](../.gitbook/assets/set\_check-list3.png)&#x20;
+
+![](../.gitbook/assets/set\_check-list2.png)
+
+3.主項目右方之編輯按鈕，可以修改主項目名稱，刪除按鈕可以刪除主項目，但是必須主項目下沒有附屬項目才可刪除。\
+4.主項目右方之上下按鈕，是可以調整主項目之順位。當主項目順位調整時，附屬項目會隨著主項目一起調整。\
+5.主項目右方之加號按鈕，可以增加附屬項目(如圖式主項目 愛整潔 下之 能保持衣著儀容整潔)。\
+6.附屬項目右方之編輯按鈕，可以修改附屬項目名稱，刪除按鈕可以刪除附屬項目。\
 7.附屬項目右方之上下按鈕，是可以調整附屬項目之順位。
+{% endtab %}
+
+{% tab title="檢視檢核表" %}
+![](../.gitbook/assets/check-list-record1.png)
+
+1.選擇**「學年度」**、**「班級」**、**「學生」**&#x20;
+
+2.勾選該生日常表現行為項目及填入具體建議
+
+3.可點選表現狀況一鍵預設該生表現後再進行個別修改
+
+![](../.gitbook/assets/check-list-record2.png)
+
+4.點擊**「合併上列具體建議」**，可將具體建議將匯入日常生活表現欄位，或點擊**「快貼」**依使用說明快速編輯後五欄文字紀錄。
+
+5.勾選**「列示已登載的輔導資料」**及其條件，將顯示輔導紀錄特殊表現紀錄於下方綠色框欄內，點擊**「複製至校內／校外表現」**系統會將該紀錄自動匯入至下方特殊表現文字欄內。
+
+6.可勾選自動跳下一位，將於儲存後直接跳下一位學生。
+
+7.點擊**「儲存」**，儲存該次編輯。
+{% endtab %}
+{% endtabs %}
+
+{% hint style="info" %}
+如需編輯非本學期資料，請至[參數設定](ri-chang-cheng-guan-li.md#can-shu-she-ding)更改權限。
+{% endhint %}
 
 ## 報表查詢
 
 {% tabs %}
 {% tab title="日常成績總表" %}
-![](../.gitbook/assets/report-search_daily_performance_summary.png)
+![](../.gitbook/assets/report-search\_daily\_performance\_summary.png)
 
 1. 選擇學期與班級。
 2. 選擇列印「**本班**」或「**本年級**」可勾選是否列印學習描述文字說明。
 {% endtab %}
 
 {% tab title="列印學期通知書" %}
-![](../.gitbook/assets/report-search_print_semester_notice%20%281%29.png)
+![](../.gitbook/assets/behavior-semester-report.png)
 
 1. 本功能提供列印學生學習行為表現學期通知單，請先勾選要列印之項目。
 2. 另外也提供核章選項可以選擇是否要勾選。
 3. 設定列印通知單之標題。
 4. 設定通知單加註文字，文字內容可以純文字或以HTML標籤進行格式設定標註。
 5. 點選列印班級或按「**全選**」按鈕選擇全部班級，再按「**選好送出**」按鈕即可列印。
+6. 亦可用學號或班級座號查詢，個別列印學生學期通知書
 {% endtab %}
 
 {% tab title="綜合表現記錄表" %}
-![](../.gitbook/assets/report-search_comprehensive_performance_record.png)
+![](../.gitbook/assets/report-search\_comprehensive\_performance\_record.png)
 
 1. 選擇學期、年級、班級。
 2. 選擇完畢後即可點擊「**列印**」；若須相片，請勾選「**列印相片**」。
@@ -63,7 +106,7 @@
 {% endtab %}
 
 {% tab title="建議修業名單" %}
-![](../.gitbook/assets/report-search_suggest_study_list.png)
+![](../.gitbook/assets/report-search\_suggest\_study\_list.png)
 
 1. 選擇學期與年級。
 2. 可選擇「**五學期**」或「**六學期**」。
@@ -73,7 +116,7 @@
 {% endtab %}
 
 {% tab title="全勤獎名單" %}
-![](../.gitbook/assets/report-search_perfect_attendance_award.png)
+![](../.gitbook/assets/report-search\_perfect\_attendance\_award.png)
 
 1. 選擇學年度以及年級。
 2. 提供列印查詢學生全勤獎名單，請選擇是否僅選擇在籍學生。
@@ -83,7 +126,7 @@
 
 ## 資料補登
 
-![](../.gitbook/assets/transfer_stud_data_make-up%20%281%29.png)
+![](<../.gitbook/assets/transfer\_stud\_data\_make-up (1).png>)
 
 1. 選擇學期。
 2. 選擇學生。
@@ -96,15 +139,15 @@
 
 ## 重計學期缺勤獎懲
 
-![](../.gitbook/assets/recalculate_semester_absence_rewards-and-punishment.png)
+![](../.gitbook/assets/re-cal-award-abs.png)
 
 1. 選擇學期與班級。
 2. 可以針對學生個人缺勤和獎懲進行重新計算，須按下「**重計學期缺勤**」或「**重計學期獎懲**」即可重計。
+3. 可點擊**「重計本學期學校獎懲」**，重計所有本學期學生獎懲。
 
 ## 參數設定
 
-![](../.gitbook/assets/parameter_setting.png)
+![](../.gitbook/assets/behavior-params.png)
 
-1. 可以進行曠課、缺席的修業計算，也可以調整建議修業名單的最低分數。
+1. 可以設定修改非本學期資料權限及進行曠課、缺席的修業計算，也可以調整建議修業名單的最低分數。
 2. 設定完參數後，點擊「**儲存設定**」即可完成操作。
-
