@@ -2,16 +2,16 @@
 
 ## 獎懲登記
 
-![](../.gitbook/assets/reward-and-punishment_record.png)
+![](../.gitbook/assets/reward-and-punishment\_record.png)
 
 1.獎懲登記只可以編修當學期資料按 「**登錄**」 按鈕，就會出現下方圖示。\
 2.本學期之前資料則只可以查看，顯示畫面類似下方，但是10區塊及編輯功能不會顯示。
 
-![](../.gitbook/assets/reward-and-punishment_record2.png)
+![](../.gitbook/assets/reward-and-punishment\_record2.png)
 
-3.下方會有周次選項，點選周次其下方會顯示該周登錄之紀錄。\
-4.顯示該周所登錄之記錄有哪幾種獎懲，裡面之數字代表有幾筆紀錄，點選該種獎懲可篩選顯示該種獎懲之紀錄。\
-5.如果要刪除某筆學生紀錄可在「**顯示所有學生**」按下按鈕，在確認按鈕後會出現以下畫面後按下「**刪除**」按鈕即可刪除學生紀錄。 ![](../.gitbook/assets/reward-and-punishment_record3.png) \
+3.下方會有週次選項，點選週次其下方會顯示該週登錄之紀錄。\
+4.顯示該週所登錄之記錄有哪幾種獎懲，裡面之數字代表有幾筆紀錄，點選該種獎懲可篩選顯示該種獎懲之紀錄。\
+5.如果要刪除某筆學生紀錄可在「**顯示所有學生**」按下按鈕，在確認按鈕後會出現以下畫面後按下「**刪除**」按鈕即可刪除學生紀錄。 ![](../.gitbook/assets/reward-and-punishment\_record3.png) \
 6.功能選項:
 
 * 要增加某筆紀錄之學生，可按「**加入學生**」 按鈕，在跳出視窗內選擇班級、選擇學生後就可增加同筆紀錄之學生。
@@ -22,23 +22,23 @@
 7.要登錄新的獎懲，請輸入獎懲日期、獎懲類別、獎懲事由後，按「**選擇學生**」 按鈕，在跳出視窗內選擇學生，並按儲存後即可新增紀錄。
 
 {% hint style="info" %}
-若有數量較大的獎懲資料，可以使用「**獎懲快貼**」的功能，從系統中下載Execl範例檔，依照「**快貼說明**」的步驟操作即可完成快貼。 ![](../.gitbook/assets/reward-and-punishment_record4.png) 
+若有數量較大的獎懲資料，可以使用「**獎懲快貼**」的功能，從系統中下載Execl範例檔，依照「**快貼說明**」的步驟操作即可完成快貼。 ![](../.gitbook/assets/reward-and-punishment\_record4.png)&#x20;
 {% endhint %}
 
 ## 銷過
 
-![](../.gitbook/assets/cancel_punish.png)
+![](../.gitbook/assets/cancel\_punish.png)
 
 1. 銷過功能在選擇班級後，在左方選單只顯示該班有記過紀錄之學生，也可以使用班級作號或是學號搜尋學生懲戒紀錄。
 2. 點選某學生後，在右方區塊會出現該學生所有記過紀錄。
 3. 要銷該學生某筆記過紀錄，可修改銷過日期或保持當天時間不修改後按 「**確定銷過**」 按鈕即可銷過。銷過後會出現「**取消**」 按鈕及「**列印通知單**」按鈕。
 4. 若學生有較多紀錄需要銷過，請「**勾選**」記錄並點擊「**批次處理**」即可。
-5. 點擊「**今日銷過學生**」可以瀏覽當日銷過記錄，如下圖。 ![](../.gitbook/assets/cancel_punish2.png) 
+5. 點擊「**今日銷過學生**」可以瀏覽當日銷過記錄，如下圖。 ![](../.gitbook/assets/cancel\_punish2.png)&#x20;
 6. 若要回復銷過記錄，請點擊「**取消**」即可完成。
 
 ## 個人獎懲明細
 
-![](../.gitbook/assets/personal_reward-and-punishment_detail.png)
+![](../.gitbook/assets/personal\_reward-and-punishment\_detail.png)
 
 1. 獎懲明細請選擇班級後，在左方區塊先選擇學生點選某學生後，在右方區塊會出現該學生所有獎懲紀錄。
 2. 請依照列印需求勾選僅列本學期記錄、 含已銷過記錄、只列獎勵記錄、只列懲戒記錄、列印全部，再按「**列印明細**」 按鈕，即可列印該生獎懲紀錄。
@@ -49,7 +49,7 @@
 
 ## 列印獎懲公告
 
-![](../.gitbook/assets/print_reward-and-punishment_announcement.png)
+![](../.gitbook/assets/print\_reward-and-punishment\_announcement.png)
 
 1. 列印獎懲公告請選擇周次，下方會顯示該周次登錄之獎懲。
 2. 點擊「**列印公告**」，會出現以下選項作為選擇:\
@@ -67,17 +67,17 @@
 
 ## 獎懲列表
 
-![](../.gitbook/assets/punishment_list.png)
+![](../.gitbook/assets/punishment\_list.png)
 
 1. 懲戒列表會列出有記有記過紀錄之記過統計，勾選「**含以銷過紀錄**」則會包含以銷過紀錄統計。
-2. 點選學生姓名會跳出新視窗顯示該學生所有獎懲明細資料，如下圖。 ![](../.gitbook/assets/punishment_list2.png) 
+2. 點選學生姓名會跳出新視窗顯示該學生所有獎懲明細資料，如下圖。 ![](../.gitbook/assets/punishment\_list2.png)&#x20;
 3. 可以下載獎懲列表記錄Excel檔。
 
 ## 獎懲統計
 
 {% tabs %}
 {% tab title="獎懲統計" %}
-![](../.gitbook/assets/reward-and-punishment_statistics.png)
+![](../.gitbook/assets/reward-and-punishment\_statistics.png)
 
 * 選擇學期。
 * 列印該學期獎懲統計。
@@ -88,7 +88,7 @@
 {% endtab %}
 
 {% tab title="獎懲班級統計" %}
-![](../.gitbook/assets/reward-and-punishment_statistics2.png)
+![](../.gitbook/assets/reward-and-punishment\_statistics2.png)
 
 * 選擇學期以及班級。
 * 可以選擇下載班級或是全校獎懲統計。
@@ -97,9 +97,20 @@
 
 ## 補登作業
 
+### 轉學生個人獎懲登記
+
+![](../.gitbook/assets/reward-transaction-data.png)
+
+1. 選擇**「學期」**。
+2. 選擇**「學生」**。
+3. 依照各項目補登學生在他校的獎懲紀錄內容。&#x20;
+4. 按下**「確定新增」**儲存學生在他校獎懲新增紀錄。&#x20;
+5. 如學生有多筆他校獎懲紀錄，可點選**「快貼獎懲」**，並依照快貼說明操作即可。
+6. 若要刪除學生補登紀錄點擊垃圾桶圖示即可刪除。
+
 ## 參數設定
 
-![](<../.gitbook/assets/parameter_setting (4).png>)
+![](<../.gitbook/assets/parameter\_setting (4).png>)
 
 1. 可以編輯「**預設獎懲依據**」，依各校所需進行操作。
 2. 輸入完畢請點擊「**儲存設定**」即可完成操作。
