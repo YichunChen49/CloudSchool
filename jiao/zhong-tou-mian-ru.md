@@ -30,13 +30,13 @@
 2. 沒有開列的學生會呈現灰底。
 
 {% hint style="info" %}
-市內電話、行動電話資料，可至 [參數設定](zhong-tou-mian-ru.md#ding) 設定**取得欄位**。
+市內電話、行動電話資料，可至 [參數設定 ](zhong-tou-mian-ru.md#can-shu-she-ding)設定**取得欄位**。
 {% endhint %}
 
 ## 報名身分
 
 {% hint style="info" %}
-於執行本功能前，請先於本模組之 [**身分對應**](wu-mian-ru.md#shen-fen) 功能設定對應及對應各學生之資料。
+於執行本功能前，請先於本模組之[ 身分對應](zhong-tou-mian-ru.md#shen-fen-dui-ying) 功能設定對應及對應各學生之資料。
 {% endhint %}
 
 ![](<../.gitbook/assets/stud-kind (3).png>)

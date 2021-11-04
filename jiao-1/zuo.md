@@ -8,7 +8,13 @@ description: 本模組為提供導師或級任教師班級管理作業功能。
 
 {% tabs %}
 {% tab title="學生基本資料" %}
-![請點選學生後，依學生資料修改表單，修改完成後請按 「儲存」 按鈕儲存資料。](../.gitbook/assets/tutor1.png)
+![](../.gitbook/assets/tutor1.png)
+
+請點選學生後，依學生資料修改表單，修改完成後請按 「儲存」 按鈕儲存資料
+
+{% hint style="info" %}
+若導師無法編修學生基本資料，請聯繫教務處，到[學生資料管理](../jiao/sheng-liao-guan-li.md#ji-ben-zi-liao)進行[參數設定](../jiao/sheng-liao-guan-li.md#can-shu-she-ding)。
+{% endhint %}
 {% endtab %}
 
 {% tab title="父母監護人資料" %}
@@ -18,6 +24,10 @@ description: 本模組為提供導師或級任教師班級管理作業功能。
 2. 請點選學生
 3. 請依監護人資料修改表單。
 4. 修改完成後請按 **「儲存」** 按鈕儲存資料。如勾選自動跳下一位將於儲存後自動跳選至下一位學生。
+
+{% hint style="info" %}
+若導師無法編修父母監護人資料，請聯繫教務處，到[學生資料管理](../jiao/sheng-liao-guan-li.md#ji-ben-zi-liao)進行[參數設定](../jiao/sheng-liao-guan-li.md#can-shu-she-ding)。
+{% endhint %}
 {% endtab %}
 
 {% tab title="學生兄弟姊妹資料" %}
@@ -144,7 +154,7 @@ description: 本模組為提供導師或級任教師班級管理作業功能。
 
 {% tab title="心理測驗" %}
 {% hint style="info" %}
-若導師無法編修心理測驗，請聯繫輔導處，到[學生輔導管理](../undefined-1/sheng-guan-li.md#ding)進行參數設定。
+若導師無法編修心理測驗，請聯繫輔導處，到[學生輔導管理](../undefined-1/sheng-guan-li.md)進行[參數設定](../undefined-1/sheng-guan-li.md#can-shu-she-ding)。
 {% endhint %}
 
 ![](<../.gitbook/assets/tutor11 (2).png>)
@@ -212,7 +222,7 @@ description: 本模組為提供導師或級任教師班級管理作業功能。
 6. 如欲刪除學生缺曠紀錄，請點擊「刪除」。
 
 {% hint style="warning" %}
-如需修改已登記之學生假別，請洽學務處處理。
+如需修改導師已登記之學生假別，請聯繫學務處至[缺曠課管理模組](../undefined/que-guan-li.md#xiu-gai-jia-bie)進行修改。
 {% endhint %}
 {% endtab %}
 
@@ -360,6 +370,10 @@ description: 本模組為提供導師或級任教師班級管理作業功能。
 {% endtab %}
 {% endtabs %}
 
+{% hint style="info" %}
+若班級幹部名稱/科目小老師不符合貴校設定，請聯繫系統管理者至[學生幹部](../undefined/sheng-bu.md)的[參數設定](../undefined/sheng-bu.md#can-shu-she-ding)調整。
+{% endhint %}
+
 ## 社團服務
 
 {% tabs %}
@@ -395,7 +409,7 @@ description: 本模組為提供導師或級任教師班級管理作業功能。
 ## 班級課表
 
 {% hint style="info" %}
-若導師無法編輯，請確認貴校作業流程「是否開放導師編修課表」。參數設定路徑：[教務處>學期初設定>參數設定](../jiao/qi-chu-ding.md#ding)。
+若導師無法編輯，請確認貴校作業流程「是否開放導師編修課表」。參數設定路徑：[教務處>學期初設定>參數設定](../jiao/qi-chu-ding.md#can-shu-she-ding)。
 {% endhint %}
 
 ![](../.gitbook/assets/tutor33.png)
@@ -432,7 +446,7 @@ description: 本模組為提供導師或級任教師班級管理作業功能。
 
 {% tab title="填報畢業班升學學校" %}
 {% hint style="info" %}
-本模組功能須由教務處到 [學生資料管理>參數設定](../jiao/sheng-liao-guan-li.md#ding)，才能開放導師編修升學學校。
+本模組功能須由教務處到 [學生資料管理>參數設定](../jiao/sheng-liao-guan-li.md#can-shu-she-ding)，才能開放導師編修升學學校。
 {% endhint %}
 
 ![](../.gitbook/assets/tutor36.png)

@@ -109,7 +109,7 @@
 
 {% tab title="3. 編修簽章檔" %}
 {% hint style="info" %}
-* 請先至 [系統管理>學校基本資料>職稱資料](../xi-guan-li-mo/school.md#liao) 上傳職稱的簽章檔。
+* 請先至 [系統管理>學校基本資料>職稱資料 ](../xi-guan-li-mo/school.md#zhi-chen-zi-liao)上傳職稱的簽章檔。
 * 系統提供之成績單樣本檔，預設會套印為**校長**、**教務主任**的簽章檔，若要修改，請參照下述步驟。
 {% endhint %}
 

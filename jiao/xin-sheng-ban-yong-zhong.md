@@ -1,7 +1,7 @@
 # 新生編班（適用國中）
 
 {% hint style="info" %}
-此模組功能適用國中操作，國小請用 [匯入新生資料](sheng-liao-guan-li.md#ru-xin-sheng-liao)。
+此模組功能適用國中操作，國小請用 [匯入新生資料](sheng-liao-guan-li.md#hui-ru-xin-sheng-zi-liao)。
 {% endhint %}
 
 ## 新生作業
@@ -151,7 +151,7 @@
 ## 正式編班
 
 {% hint style="warning" %}
-要進行正式編班之前，須先進行新學年度之班級設定，請至 [**學期初設定>班級**](qi-chu-ding.md#2-ban) 選單設定。
+要進行正式編班之前，須先進行新學年度之班級設定，請至[ 學期初設定>班級](qi-chu-ding.md#2-ban-ji) 選單設定。
 {% endhint %}
 
 {% tabs %}
@@ -215,7 +215,7 @@
 ## 寫入學籍表
 
 {% hint style="info" %}
-請先到 [學生資料管理>學期編班](sheng-liao-guan-li.md#qi-ban) 將舊生升級，再操作此功能。
+請先到 [學生資料管理>學期編班 ](sheng-liao-guan-li.md#xue-qi-bian-ban)將舊生升級，再操作此功能。
 {% endhint %}
 
 ![](../.gitbook/assets/transform-data2.png)
@@ -239,12 +239,12 @@
 
 ![](<../.gitbook/assets/chc-output (1).png>)
 
-1. 請到 [學期初設定>班級](qi-chu-ding.md#2-ban) 設定班級。
-2. 由本模組 [新生作業](xin-sheng-ban-yong-zhong.md#xin-sheng-zuo) 匯入新生的資料。
-3. 由 [新生作業>登錄就讀](xin-sheng-ban-yong-zhong.md#xin-sheng-zuo) 標記是否就讀本校。
+1. 請到 [學期初設定>班級](qi-chu-ding.md#2-ban-ji) 設定班級。
+2. 由本模組 [新生作業 ](xin-sheng-ban-yong-zhong.md#xin-sheng-zuo-ye)匯入新生的資料。
+3. 由 [新生作業>登錄就讀 ](xin-sheng-ban-yong-zhong.md#xin-sheng-zuo-ye)標記是否就讀本校。
 4. 額外應用，例如：臨時編班、入學通知單...等（本部分國小可略）。
 5. 在上圖按下**「編班檔案轉出」**，產生給編班中心的資料檔。
 6. 在上圖按下**「編班檔案轉入」**，匯入編班中心輸出的編班結果資料檔。
-7. 由 [新生編班>正式編班>設定學號](xin-sheng-ban-yong-zhong.md#zheng-shi-ban) 設定新生的正式學號。
-8. 待新學期後，至 [學生資料管理>學期編班](sheng-liao-guan-li.md#qi-ban) 將其他年級參照上學期資料升級。
-9. 由 [新生編班>寫入學籍表](xin-sheng-ban-yong-zhong.md#ru-ji-biao) 正式將新生寫入學籍系統。
+7. 由 [新生編班>正式編班>設定學號 ](xin-sheng-ban-yong-zhong.md#zheng-shi-bian-ban)設定新生的正式學號。
+8. 待新學期後，至 [學生資料管理>學期編班 ](sheng-liao-guan-li.md#xue-qi-bian-ban)將其他年級參照上學期資料升級。
+9. 由[ 新生編班>寫入學籍表](xin-sheng-ban-yong-zhong.md#xie-ru-xue-ji-biao) 正式將新生寫入學籍系統。

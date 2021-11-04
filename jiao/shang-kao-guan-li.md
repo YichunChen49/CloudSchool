@@ -74,8 +74,8 @@
 ## 線上補考名單管理
 
 {% hint style="info" %}
-* 如果學生需補考不在名單內，請至 [補考作業>篩選補行評量名單](kao-zuo.md#hang-liang-ming) 內重新篩選學生，名單就會同時同步更新。
-* 本功能不提供列印補考通知書及名單下載，請直接在 [補考作業>列印通知單](kao-zuo.md#lie-yin-tong-zhi) 列印下載。
+* 如果學生需補考不在名單內，請至 [補考作業>篩選補行評量名單 ](kao-zuo.md#shai-xuan-ling-yu-bu-hang-ping-liang-ming-chan)內重新篩選學生，名單就會同時同步更新。
+* 本功能不提供列印補考通知書及名單下載，請直接在 [補考作業>列印通知單 ](kao-zuo.md#lie-yin-tong-zhi-chan)列印下載。
 {% endhint %}
 
 ![](../.gitbook/assets/resit-stu-list.png)

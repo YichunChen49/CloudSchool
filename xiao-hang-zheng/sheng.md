@@ -13,7 +13,7 @@
 5. 可**「列印」**學生個人或全班競賽紀錄。
 
 {% hint style="info" %}
-團體登錄與編輯請至 [團體競賽登錄](sheng.md#deng-1)。
+團體登錄與編輯請至 [團體競賽登錄](sheng.md#tuan-ti-jing-sai-deng-lu)。
 {% endhint %}
 {% endtab %}
 
@@ -33,7 +33,7 @@
 
 {% tabs %}
 {% tab title="團體競賽管理" %}
-![](../.gitbook/assets/group-input%20%281%29.png)
+![](<../.gitbook/assets/group-input (1).png>)
 
 1. 按下**「新增團體競賽紀錄」**，新增一筆團體競賽紀錄。
 2. 亦可使用**「快貼功能」匯入**團體競賽紀錄。
@@ -66,4 +66,3 @@
 5. 按下**「儲存」**，儲存該次填報紀錄。
 {% endtab %}
 {% endtabs %}
-

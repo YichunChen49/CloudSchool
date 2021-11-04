@@ -25,7 +25,7 @@
 6. 可下載**「統計結果 Excel 檔」**以及**「組距參考表」**。
 
 {% hint style="info" %}
-若有學生成績須排除在外，請先至 [排除名單](cheng-he-guan-li.md#pai-chu-ming) 設定學生。
+若有學生成績須排除在外，請先至 [排除名單](cheng-he-guan-li.md#pai-chu-ming-chan) 設定學生。
 {% endhint %}
 
 ### 定期評量-各班平均
@@ -55,7 +55,7 @@
 ### 階段成績轉班
 
 {% hint style="info" %}
-操作階段成績轉班前，請先將學生調整到新班級。
+操作階段成績轉班前，請先將學生調整到新班級。請參照[學生資料管理＞學期編班](sheng-liao-guan-li.md#xue-qi-bian-ban-1)。
 {% endhint %}
 
 ![](../.gitbook/assets/move-stage-score.png)
