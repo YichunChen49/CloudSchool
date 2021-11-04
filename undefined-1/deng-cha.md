@@ -11,9 +11,9 @@
 
 ## 訪談記錄填寫情形
 
-本功能是統計導師填寫班級訪談紀錄狀況，請點選學期，呈現如下圖。
+本功能是統計導師填寫班級訪談紀錄狀況，請點選學期，亦可使用訪談次數篩選出設定訪談次數以下之人選。呈現如下圖。
 
-![](../.gitbook/assets/fillin\_status2.png)
+![](../.gitbook/assets/counseling-query-check-interview.png)
 
 ## 輔導記錄統計
 
