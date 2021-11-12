@@ -48,7 +48,7 @@
 
 ![](<../.gitbook/assets/club\_management (1).png>)
 
-1.  學期初設定\
+1.  期初設定\
     &#x20;![](../.gitbook/assets/manager2.png)&#x20;
 
     ● 請逐項依照貴校需求填入資料。
@@ -56,8 +56,8 @@
     ● 儲存。\
 
 2. 新增社團\
-   ![](../.gitbook/assets/increase\_club.png) \
-   &#x20;將社團指導老師的社團資料逐筆輸入。請注意年級別要正確。\
+   ![](../.gitbook/assets/club-manager3.png) \
+   將社團指導老師的社團資料逐筆輸入。請注意年級別要正確。\
 
 3. 刪除不需要的社團，請點該社團之「**刪除**」按鈕，但若該社團已有編入學生，請先刪除編入學生資料才可刪除。若要修改該社團設定，請按「**修改**」按鈕。\
 
@@ -145,12 +145,12 @@
 {% tab title="學期成績補登" %}
 本功能可以補登學生社團成績及學習描述。
 
-![](../.gitbook/assets/semester\_score\_make-up.png)
+![](../.gitbook/assets/club-semester-data.png)
 
 1. 請選擇學期和社團名稱。
-2. 輸入成績、職稱及學習描述。
+2. 選擇努力程度並輸入成績、職稱及學習描述。
 3. 輸入完畢請點選「**儲存**」。
-4. 若要一次輸入多筆資料，可以點擊「**快貼成績**」。 ![](../.gitbook/assets/semester\_score\_make-up2.png) \
+4. 若要一次輸入多筆資料，可以點擊「**快貼成績**」。 ![](../.gitbook/assets/club-semester-data2.png) \
    依照「**快貼說明**」操作，即可完成作業。
 {% endtab %}
 
