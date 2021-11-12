@@ -85,7 +85,7 @@
 
 ![](../.gitbook/assets/ting-ke-xue-sheng-guan-huai-ji-lu-tian-bao-1.png)
 
-1. **新增學生關懷紀錄**\
+1. **新增關懷紀錄**\
    &#x20;![](../.gitbook/assets/suspend-class-care-plan.png) \
    一.選擇實施起訖日期。\
    二.填寫實施的科目。\
@@ -93,9 +93,9 @@
    六填寫完畢請點擊**「存檔」**儲存此次編輯。\
    七.點選**「關閉」**可離開新增視窗。\
 
-2. **可編輯學生關懷紀錄**\
+2. **可編輯實施方式**\
    ****
-3.  **導師填寫關懷紀錄**\
+3.  **導師填寫學生關懷紀錄**\
     ****
 
     ** **![](../.gitbook/assets/ting-ke-xue-sheng-guan-huai-ji-lu-tian-bao-3.png)&#x20;
