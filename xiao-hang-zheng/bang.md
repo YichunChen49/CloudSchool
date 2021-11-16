@@ -51,7 +51,7 @@
 {% tab title="列表" %}
 在榮譽榜管理點下**「列表」**，會彈跳出此畫面。
 
-![](../.gitbook/assets/honor-list3.png)
+![](<../.gitbook/assets/honor-list3 (1).png>)
 
 1. 點選**「下載 Excel」**，可下載即時榮譽紀錄。
 2. 點選**「刪除」**，可刪除個別學生紀錄。
