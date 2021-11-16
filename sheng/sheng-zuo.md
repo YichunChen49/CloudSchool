@@ -102,9 +102,12 @@
 {% endtab %}
 
 {% tab title="社團記錄及個人省思" %}
-![本功能會列出學生個人參與社團之紀錄，並可編輯自我省思。](../.gitbook/assets/stud-items12.png)
+本功能會列出學生個人參與社團之紀錄，並可編輯自我省思。
 
-點擊編輯自我省思，產生視窗如下圖
+![](../.gitbook/assets/stud-items12.png)
+
+1. 點擊編輯自我省思，產生視窗如下圖
+2. 編輯完畢後點擊「儲存」即可儲存此次編修。
 
 ![](../.gitbook/assets/stud-items13.png)
 {% endtab %}
