@@ -38,7 +38,7 @@
 
 * 修改**個案資料**
 * 刪除**個案資料**
-* 檢視**個案填報狀況 **&#x20;
+* 檢視**個案填報狀況**&#x20;
 
 ![](../.gitbook/assets/ting-ke-xue-sheng-guan-huai-li-an-3.png)
 
@@ -98,13 +98,13 @@
 3.  **導師填寫學生關懷紀錄**\
     ****
 
-    ** **![](../.gitbook/assets/ting-ke-xue-sheng-guan-huai-ji-lu-tian-bao-3.png)&#x20;
+    &#x20;**** ![](../.gitbook/assets/ting-ke-xue-sheng-guan-huai-ji-lu-tian-bao-3.png)&#x20;
 
     > * 填寫`輔導措施`
     > * 填寫`聯繫狀況`
     > * 填寫`學生狀況`
 4. **刪除紀錄**
-5. **可將停課關懷紀錄複製至輔導訪談紀錄 **\
+5. **可將停課關懷紀錄複製至輔導訪談紀錄** \
    ****![](../.gitbook/assets/ting-ke-xue-sheng-guan-huai-ji-lu-tian-bao-4.png) \
    ****
 
