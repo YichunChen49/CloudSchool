@@ -208,6 +208,12 @@
 
 ![](../.gitbook/assets/absent-auth.png)
 
+### 差假系統更新訊息
+
+本功能提供教職員檢視差假系統版本更新情形。
+
+![](../.gitbook/assets/teacher-absent-update-message.png)
+
 ## 教職員差假管理
 
 ### 假單簽核
