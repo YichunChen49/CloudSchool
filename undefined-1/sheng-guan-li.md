@@ -121,6 +121,45 @@
 
 ![](../.gitbook/assets/psychological\_test6.png)
 
+## 智力測驗（限國中）
+
+{% tabs %}
+{% tab title="登錄" %}
+![](<../.gitbook/assets/counseling-intelligence\_1 (1).png>)
+
+1. 如果要登錄當學期紀錄，請點選 **「登錄」** 按鈕，進入編修頁面。
+2. 要觀看舊紀錄，請點選 **「查看」** 按鈕，進入查看資料模式。如欲修改其他學期，請點選 [參數設定](sheng-guan-li.md#can-shu-she-ding) ，並將 **「允許修改本學期之前的輔導資料」**設為 **「是」** 。
+{% endtab %}
+
+{% tab title="新增測驗紀錄" %}
+![](../.gitbook/assets/counseling-intelligence\_2.png)
+
+1. 選擇**「班級」**。
+2. 選擇**「學生」**。
+3. 點擊**「新增xxx智力測驗紀錄」**，新增畫面如下圖，輸入後存檔。![](../.gitbook/assets/counseling-intelligence\_3.png)
+4. 可使用快貼方式快速輸入成績紀錄，請按 **「快貼批次匯入」** 按鈕，會跳出新視窗如下圖。\
+   請參照快貼說明操作即可。\
+   ![](../.gitbook/assets/counseling-intelligence\_4.png)
+5. 點擊**「列印測驗資料」**，可列印班級學生之測驗紀錄。
+
+{% hint style="danger" %}
+每學期每位學生只會有一筆資料，重複匯入將會覆蓋原資料。
+{% endhint %}
+{% endtab %}
+
+{% tab title="編輯測驗紀錄" %}
+![](../.gitbook/assets/counseling-intelligence\_5.png)
+
+1. 選擇**「班級」**。
+2. 選擇**「學生」**。
+3. 如欲修改學生測驗紀錄，請點擊「修改」。
+4. 如需刪除學生測驗紀錄，請點擊「刪除」。
+5. 點擊**「列印測驗資料」**，可列印班級學生之測驗紀錄。
+{% endtab %}
+{% endtabs %}
+
+
+
 ## 參數設定
 
 ![](../.gitbook/assets/counseling-params.png)
