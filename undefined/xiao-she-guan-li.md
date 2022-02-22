@@ -145,13 +145,19 @@
 {% tab title="學期成績補登" %}
 本功能可以補登學生社團成績及學習描述。
 
-![](../.gitbook/assets/club-semester-data.png)
+![](<../.gitbook/assets/club-semester-data (1).png>)
 
 1. 請選擇學期和社團名稱。
-2. 選擇努力程度並輸入成績、職稱及學習描述。
+2. 選擇**「努力程度」**並輸入**「成績」**、**「職稱」**及**「學習描述」**。\
+   **「自我省思」**為學生於[學生作業＞社團活動](../sheng/sheng-zuo.md#she-tuan-huo-dong)自行輸入，此處提供學校修改不當留言使用。
 3. 輸入完畢請點選「**儲存**」。
-4. 若要一次輸入多筆資料，可以點擊「**快貼成績**」。 ![](../.gitbook/assets/club-semester-data2.png) \
+4. 若要一次輸入多筆資料，可以點擊「**快貼成績**」。\
+   &#x20;![](../.gitbook/assets/club-semester-data2.png) \
    依照「**快貼說明**」操作，即可完成作業。
+
+{% hint style="info" %}
+「自我省思」無提供快貼功能。因此處內容本由學生自行輸入，校方僅針對不當留言做修正。
+{% endhint %}
 {% endtab %}
 
 {% tab title="轉學生補登他校成績" %}
