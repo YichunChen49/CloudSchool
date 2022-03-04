@@ -116,6 +116,10 @@ description: 本模組提供校內各項行政功能支援：訊息公告、調�
 
     ![](../.gitbook/assets/open-news\_survey2.png)
 5. 點擊**「下載EXCEL報表」**，可下載填報結果檔，查看表單填報結果。
+
+{% hint style="info" %}
+如調查表單已有填報資料，則無法刪除。
+{% endhint %}
 {% endtab %}
 
 {% tab title="新增表單" %}
