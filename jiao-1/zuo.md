@@ -169,7 +169,7 @@ description: 本模組為提供導師或級任教師班級管理作業功能。
 
 {% tab title="智力測驗(限國中)" %}
 {% hint style="info" %}
-若導師無法編修心理測驗，請聯繫輔導處，到[學生輔導管理](../undefined-1/sheng-guan-li.md)進行[參數設定](../undefined-1/sheng-guan-li.md#can-shu-she-ding)。
+若導師無法編修智力測驗，請聯繫輔導處，到[學生輔導管理](../undefined-1/sheng-guan-li.md)進行[參數設定](../undefined-1/sheng-guan-li.md#can-shu-she-ding)。
 {% endhint %}
 
 ![](../.gitbook/assets/tutor-counseling-intelligence1.png)
@@ -187,7 +187,7 @@ description: 本模組為提供導師或級任教師班級管理作業功能。
 
 {% tab title="興趣測驗(限國中)" %}
 {% hint style="info" %}
-若導師無法編修心理測驗，請聯繫輔導處，到[學生輔導管理](../undefined-1/sheng-guan-li.md)進行[參數設定](../undefined-1/sheng-guan-li.md#can-shu-she-ding)。
+若導師無法編修興趣測驗，請聯繫輔導處，到[學生輔導管理](../undefined-1/sheng-guan-li.md)進行[參數設定](../undefined-1/sheng-guan-li.md#can-shu-she-ding)。
 {% endhint %}
 
 ![](<../.gitbook/assets/tutor-counseling-interest1 (1).png>)
