@@ -49,20 +49,20 @@
 ![](<../.gitbook/assets/club\_management (1).png>)
 
 1.  期初設定\
-    &#x20;![](../.gitbook/assets/manager2.png)&#x20;
+    &#x20;<img src="../.gitbook/assets/manager2.png" alt="" data-size="original">&#x20;
 
     ● 請逐項依照貴校需求填入資料。
 
     ● 儲存。\
 
 2. 新增社團\
-   ![](../.gitbook/assets/club-manager3.png) \
+   <img src="../.gitbook/assets/club-manager3.png" alt="" data-size="original"> \
    將社團指導老師的社團資料逐筆輸入。請注意年級別要正確。\
 
 3. 刪除不需要的社團，請點該社團之「**刪除**」按鈕，但若該社團已有編入學生，請先刪除編入學生資料才可刪除。若要修改該社團設定，請按「**修改**」按鈕。\
 
 4.  複製上學期社團 \
-    ![](../.gitbook/assets/copy\_last-semester\_club.png) \
+    <img src="../.gitbook/assets/copy_last-semester_club.png" alt="" data-size="original"> \
     ● 複製本學期之前的社團，省去逐筆設定社團，也可一併複製該社團學生。
 
     ● 請先選擇要複製的社團，如果出現的是已存在，為該社團在本學期已重複。
@@ -70,7 +70,7 @@
     ● 要一併複製社團學生，請先勾選該社團，只勾選複製學生，系統不會處理。\
 
 5.  統一設定通過分數\
-    &#x20;![](../.gitbook/assets/unity\_setting\_pass-score.png)&#x20;
+    &#x20;<img src="../.gitbook/assets/unity_setting_pass-score.png" alt="" data-size="original">&#x20;
 
     ● 本功能是將有社團同時輸入統一分數，您仍可針對個別社團進行分數調整。
 
@@ -79,7 +79,7 @@
     ● 若貴校不需認證，則請輸入 0 分。\
 
 6. 手動編班\
-   &#x20;![](../.gitbook/assets/manual\_edit\_class.png) \
+   &#x20;<img src="../.gitbook/assets/manual_edit_class.png" alt="" data-size="original"> \
    1.選擇班級。\
    2.選擇學生，若要選擇班級所有學生，請勾選「**全選**」。\
    3.可以顯示已編班的學生狀況，若要刪除學生，請點擊「**刪除**」圖示；刪除全部學生，請點擊「**全部刪除**」。
@@ -94,7 +94,7 @@
 2. 可檢視各年級社團內容。
 3. 可檢視各年級社團學生明細。
 4. 若需檢視尚未選課和編班的學生，請點擊「**未選課、編班名單**」。\
-   ![](../.gitbook/assets/unselected\_club\_list.png)&#x20;
+   <img src="../.gitbook/assets/unselected_club_list.png" alt="" data-size="original">&#x20;
 5. 學生填寫志願期限過後，就可以按**「開始編班」**按鈕，系統就開始依據社團設定及學生填之志願編班。
 6. 系統提供下載各年級學生選填社團志願的狀況。
 7. 若要刪除當學期社團編班記錄，請點擊「**清除鍵**」。如果要保留已經事先安排之學生編社資料，可取消勾選**"包含已手動編班學生"**，並於確認後清除資料。
@@ -152,7 +152,7 @@
    **「自我省思」**為學生於[學生作業＞社團活動](../sheng/sheng-zuo.md#she-tuan-huo-dong)自行輸入，此處提供學校修改不當留言使用。
 3. 輸入完畢請點選「**儲存**」。
 4. 若要一次輸入多筆資料，可以點擊「**快貼成績**」。\
-   &#x20;![](../.gitbook/assets/club-semester-data2.png) \
+   &#x20;<img src="../.gitbook/assets/club-semester-data2.png" alt="" data-size="original"> \
    依照「**快貼說明**」操作，即可完成作業。
 
 {% hint style="info" %}

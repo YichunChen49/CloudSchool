@@ -76,7 +76,7 @@
 
 1. 選擇班級。
 2. 點擊「**學生姓名**」可以檢視學生各個學期缺曠課次數統計，如下圖。\
-   &#x20;![](../.gitbook/assets/semester\_lack\_class\_statistics2.png) \
+   &#x20;<img src="../.gitbook/assets/semester_lack_class_statistics2.png" alt="" data-size="original"> \
    \*點擊「**關閉**」可以回到原來的頁面。
 3. 列印本學期缺曠課統計表。
 

@@ -26,7 +26,7 @@
 ![](../.gitbook/assets/ting-ke-xue-sheng-guan-huai-li-an-1.png)
 
 * 新增**個案資料** \
-  &#x20;![](../.gitbook/assets/ting-ke-xue-sheng-guan-huai-li-an-2.png) \
+  &#x20;<img src="../.gitbook/assets/ting-ke-xue-sheng-guan-huai-li-an-2.png" alt="" data-size="original"> \
   1.輸入**案名**\
   2.選擇**停課原因**\
   3.輸入**原因簡述**\
@@ -86,7 +86,7 @@
 ![](../.gitbook/assets/ting-ke-xue-sheng-guan-huai-ji-lu-tian-bao-1.png)
 
 1. **新增關懷紀錄**\
-   &#x20;![](../.gitbook/assets/suspend-class-care-plan.png) \
+   &#x20;<img src="../.gitbook/assets/suspend-class-care-plan.png" alt="" data-size="original"> \
    一.選擇實施起訖日期。\
    二.填寫實施的科目。\
    三.填寫實施的方式。                                                                                                   　　　　　四.如實施方式為其他，請填寫補充說明。　　　　　　　　　　　　　　　　　　　　　　　　　五.點選**「選擇檔案」**上傳課業輔導計畫檔案。\
@@ -98,14 +98,14 @@
 3.  **導師填寫學生關懷紀錄**\
     ****
 
-    &#x20;**** ![](../.gitbook/assets/ting-ke-xue-sheng-guan-huai-ji-lu-tian-bao-3.png)&#x20;
+    &#x20;**** <img src="../.gitbook/assets/ting-ke-xue-sheng-guan-huai-ji-lu-tian-bao-3.png" alt="" data-size="original">&#x20;
 
     > * 填寫`輔導措施`
     > * 填寫`聯繫狀況`
     > * 填寫`學生狀況`
 4. **刪除紀錄**
 5. **可將停課關懷紀錄複製至輔導訪談紀錄** \
-   ****![](../.gitbook/assets/ting-ke-xue-sheng-guan-huai-ji-lu-tian-bao-4.png) \
+   ****<img src="../.gitbook/assets/ting-ke-xue-sheng-guan-huai-ji-lu-tian-bao-4.png" alt="" data-size="original"> \
    ****
 
 ※填報教學影片

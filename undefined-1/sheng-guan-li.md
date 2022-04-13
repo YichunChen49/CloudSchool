@@ -2,13 +2,13 @@
 
 ## 學生輔導記錄
 
-![](../.gitbook/assets/counseling1.png)
+<img src="../.gitbook/assets/counseling1.png" alt="" data-size="original">
 
 1. &#x20;學生輔導紀錄預設只能記錄當學期資料，如欲修改為可記錄其他學期，請點選 [參數設定](sheng-guan-li.md#can-shu-she-ding) ，並將 **「允許修改本學期之前的輔導資料」**設為 **「是」** 。
 2.  &#x20;要登錄資料，請按 **「登錄」** 按鈕，進入編修頁面如下圖。 \
     &#x20;
 
-    ![](<../.gitbook/assets/student\_counseling\_record (1).png>)
+    <img src="../.gitbook/assets/student_counseling_record (1).png" alt="" data-size="original">
 3. 請選擇學期。
 4. 再選擇學生後，請依該生狀況輸入或選擇適合條件選項。
 5. 輸入完成後，請按 **「儲存」** 按鈕儲存紀錄。
@@ -30,14 +30,14 @@
 3\. 如欲修改訪談紀錄，請按 **「修改」** 按鈕，並於跳出視窗內進行編修；如要刪除此紀錄，請按 **「刪除」** 按鈕，於確認刪除後會刪除該筆資料。\
 4.列印學生訪談紀錄。\
 5\. 欲新增訪談紀錄，請按 **「新增紀錄」** 按鈕，會跳出視窗如下圖。\
-![](../.gitbook/assets/student\_interview\_record3.png)&#x20;
+<img src="../.gitbook/assets/student_interview_record3.png" alt="" data-size="original">&#x20;
 
 * 請在表單內容輸入紀錄。
 * 輸入完成後，請按 **「儲存」** 按鈕。
 * 不要輸入或放棄編輯，請按 **「關閉」** 按鈕關閉該視窗。
 
 6.若某生有多筆資須輸入，可以使用快貼功能，如下圖。 \
-![](../.gitbook/assets/student\_interview\_record4.png)&#x20;
+<img src="../.gitbook/assets/student_interview_record4.png" alt="" data-size="original">&#x20;
 
 * 點選使用說明。
 * 下載範例檔。
@@ -98,10 +98,10 @@
 3.要列印班級學生之測驗紀錄，請點選 **「列印本學期測驗」** 按鈕。\
 4.要新增／編修心理測驗，請點選 **「編修心理測驗」** 按鈕，會跳出新視窗如下圖。
 
-> ![](../.gitbook/assets/psychological\_test3.png) \
+> <img src="../.gitbook/assets/psychological_test3.png" alt="" data-size="original"> \
 > &#x20;1.要新增測驗請點選 **「新增測驗」** 按鈕，會在原視窗下方出現表單，如下圖。
 
-> > ![](../.gitbook/assets/psychological\_test4.png) \
+> > <img src="../.gitbook/assets/psychological_test4.png" alt="" data-size="original"> \
 > > &#x20;於輸入相關資料後，按 **「儲存」** 按鈕即可新增一個心理測驗。
 
 > 2.如果要刪除測驗，請按 **「刪除」** 按鈕，於確認刪除後會刪除該筆資料；修改該筆資料，請按 **「修改」** 按鈕，並於下方的表單內修改該筆紀錄。\
@@ -109,7 +109,7 @@
 
 5\. 於測驗完畢後，要輸入學生成績紀錄，可以使用快貼方式快速輸入成績紀錄，請按 **「快貼批次匯入」** 按鈕，會跳出新視窗如下圖。
 
-> ![](../.gitbook/assets/psychological\_test5.png)&#x20;
+> <img src="../.gitbook/assets/psychological_test5.png" alt="" data-size="original">&#x20;
 >
 > 1. 請選擇測驗項目，若尚未新增測驗，請至 **「編修心理測驗」** 功能新增測驗。
 > 2. 將測驗資料填入區塊 2。
