@@ -202,6 +202,20 @@ description: 本模組為提供導師或級任教師班級管理作業功能。
 每學期每位學生只會有一筆資料，重複匯入將會覆蓋原資料。
 {% endhint %}
 {% endtab %}
+
+{% tab title="性向測驗(限國中)" %}
+{% hint style="info" %}
+若導師無法編修性向測驗，請聯繫輔導處，到[學生輔導管理](../undefined-1/sheng-guan-li.md)進行[參數設定](../undefined-1/sheng-guan-li.md#can-shu-she-ding)。
+{% endhint %}
+
+![](../.gitbook/assets/tutor-counseling-aptitude.png)
+
+1. 僅會顯示**「任教班級」**。
+2. 選擇**「學生」。**
+3. 在學生成績欄位中，可**「修改」**測驗成績。
+4. 點擊**「刪除」**可刪除測驗成績。
+5. 按下**「列印本學期測驗」**，可列印全班有測驗學生之成績。
+{% endtab %}
 {% endtabs %}
 
 {% tabs %}
