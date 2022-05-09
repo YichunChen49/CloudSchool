@@ -800,7 +800,7 @@
 {% tab title="名冊列印" %}
 在畢業生一覽表頁面，按下**「名冊列印」**，會彈出下方視窗。
 
-![](<../.gitbook/assets/student-grade-sign5 (1).png>)
+![](<../.gitbook/assets/student-grade-sign5 (2).png>)
 
 1. 可以依照升學學校，選擇「**班級**」、「**升學學校**」，列印畢業生名冊給學區國中。
 2. 可以列印或下載給教育局的畢業生名冊。
