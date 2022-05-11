@@ -2,7 +2,7 @@
 
 ## 學生輔導記錄
 
-<img src="../.gitbook/assets/counseling1.png" alt="" data-size="original">
+![](../.gitbook/assets/counseling1.png)
 
 1. &#x20;學生輔導紀錄預設只能記錄當學期資料，如欲修改為可記錄其他學期，請點選 [參數設定](sheng-guan-li.md#can-shu-she-ding) ，並將 **「允許修改本學期之前的輔導資料」**設為 **「是」** 。
 2.  &#x20;要登錄資料，請按 **「登錄」** 按鈕，進入編修頁面如下圖。 \
