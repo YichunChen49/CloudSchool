@@ -32,17 +32,20 @@
 * [補考作業](jiao/kao-zuo.md)
 * [匯入讀卡機資料](jiao/ru-ka-liao.md)
 * [新生編班（適用國中）](jiao/xin-sheng-ban-yong-zhong.md)
-* [五專免試入學](jiao/wu-mian-ru.md)
-* [中投區免試入學](jiao/zhong-tou-mian-ru.md)
-* [彰縣免試入學](jiao/zhang-xian-mian-shi-ru-xue.md)
-* [嘉義區免試入學](jiao/jia-yi-qu-mian-shi-ru-xue.md)
-* [雲林區免試入學](jiao/yun-lin-qu-mian-shi-ru-xue.md)
 * [線上補考管理](jiao/shang-kao-guan-li.md)
 * [補救教學篩選](jiao/jiu-jiao.md)
 * [技藝學程成績](jiao/ji-cheng-cheng.md)
 * [教師資料](jiao/jiao-liao.md)
 * [課表作業](jiao/biao-zuo.md)
 * [廳版學籍資料](jiao/ting-ban-xue-ji-zi-liao.md)
+
+## ※免試入學專區（自行加掛）
+
+* [五專免試入學](mian-shi-ru-xue-zhuan-qu-zi-hang-jia-gua/wu-mian-ru.md)
+* [中投區免試入學](mian-shi-ru-xue-zhuan-qu-zi-hang-jia-gua/zhong-tou-mian-ru.md)
+* [彰縣免試入學](mian-shi-ru-xue-zhuan-qu-zi-hang-jia-gua/zhang-xian-mian-shi-ru-xue.md)
+* [嘉義區免試入學](mian-shi-ru-xue-zhuan-qu-zi-hang-jia-gua/jia-yi-qu-mian-shi-ru-xue.md)
+* [雲林區免試入學](mian-shi-ru-xue-zhuan-qu-zi-hang-jia-gua/yun-lin-qu-mian-shi-ru-xue.md)
 
 ## 學務處 <a href="#undefined" id="undefined"></a>
 

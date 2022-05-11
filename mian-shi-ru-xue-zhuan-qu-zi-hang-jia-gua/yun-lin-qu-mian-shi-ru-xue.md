@@ -35,7 +35,7 @@
 2. 沒有開列的學生會呈現灰底。
 3. 雙擊開列學生列可編輯修改該生資料，如下圖：\
    ![](../.gitbook/assets/ylc-stud-kind2.png)\
-   _※ 請留意!此處編輯僅供雲林區免試入學模組資料處理，不會連動至學生資料管理的_[_學生資料_](sheng-liao-guan-li.md#xue-sheng-zi-liao)_身分。_
+   _※ 請留意!此處編輯僅供雲林區免試入學模組資料處理，不會連動至學生資料管理的_[_學生資料_](../jiao/sheng-liao-guan-li.md#xue-sheng-zi-liao)_身分。_
 
 ## 扶助弱勢
 
