@@ -36,6 +36,7 @@
 * [中投區免試入學](jiao/zhong-tou-mian-ru.md)
 * [彰縣免試入學](jiao/zhang-xian-mian-shi-ru-xue.md)
 * [嘉義區免試入學](jiao/jia-yi-qu-mian-shi-ru-xue.md)
+* [雲林區免試入學](jiao/yun-lin-qu-mian-shi-ru-xue.md)
 * [線上補考管理](jiao/shang-kao-guan-li.md)
 * [補救教學篩選](jiao/jiu-jiao.md)
 * [技藝學程成績](jiao/ji-cheng-cheng.md)
