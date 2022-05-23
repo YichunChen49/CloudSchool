@@ -84,7 +84,7 @@
 {% tab title="1. 安裝 libre office" %}
 ![](../.gitbook/assets/make-report.png)
 
-1. 點擊 [LibreOffice Writer](https://zh-tw.libreoffice.org) 下載連結。
+1. 點擊 [LibreOffice Writer](https://zh-tw.libreoffice.org/) 下載連結。
 2. 下載 LibreOffice 軟體，建議下載 6.1.4 以上版本，下載後請安裝至本機。
 {% endtab %}
 

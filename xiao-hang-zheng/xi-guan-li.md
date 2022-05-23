@@ -398,7 +398,7 @@ description: 本模組提供校內各項行政功能支援：訊息公告、調�
 {% hint style="warning" %}
 系統 mail 須為 gmail，且設定為「[允許低安全性應用程式存取](https://support.google.com/accounts/answer/6010255?hl=zh-Hant)」，設定步驟如下：
 
-1. 前往您的 [Google 帳戶](https://myaccount.google.com)。
+1. 前往您的 [Google 帳戶](https://myaccount.google.com/)。
 2. 按一下左側導覽面板上的 \[安全性]。
 3. 在頁面底部的「低安全性應用程式存取權」面板上，按一下 \[開啟存取權]。\
    如果系統未顯示這項設定，表示您的管理員可能已關閉低安全性應用程式帳戶存取權。
