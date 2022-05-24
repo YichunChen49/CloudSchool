@@ -7,6 +7,10 @@
 
 * [學期初設定大補帖](chang-cao-zuo-liu-cheng-jiao/qi-chu-ding-da-tie.md)
 
+***
+
+* [\[PDF\] 學期初設定大補帖 ](https://drive.google.com/file/d/18RCgyA8vBk1Nh6pUfKSek84L8ve4VB9G/view?usp=sharing)
+
 ## 系統管理 <a href="#xi-guan-li-mo" id="xi-guan-li-mo"></a>
 
 * [模組管理](xi-guan-li-mo/module.md)
@@ -38,6 +42,10 @@
 * [教師資料](jiao/jiao-liao.md)
 * [課表作業](jiao/biao-zuo.md)
 * [廳版學籍資料](jiao/ting-ban-xue-ji-zi-liao.md)
+
+***
+
+* [\[PDF\] 註冊組常用模組](https://drive.google.com/file/d/1d0ngqxThroYCXxcyihAeo6RNgM30KwiT/view?usp=sharing)
 
 ## ※免試入學專區（自行加掛）
 
