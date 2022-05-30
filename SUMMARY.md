@@ -45,7 +45,7 @@
 
 ***
 
-* [\[PDF\] 註冊組常用模組](https://drive.google.com/file/d/1d0ngqxThroYCXxcyihAeo6RNgM30KwiT/view?usp=sharing)
+* [\[PDF\] 註冊組常用模組](https://drive.google.com/file/d/1ZH9XTd1OscBevaz\_8I3qZu3fgae10JnH/view?usp=sharing)
 
 ## ※免試入學專區（自行加掛）
 
