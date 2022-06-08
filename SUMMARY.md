@@ -9,7 +9,7 @@
 
 ***
 
-* [\[PDF\] 學期初設定大補帖 ](https://drive.google.com/file/d/18RCgyA8vBk1Nh6pUfKSek84L8ve4VB9G/view?usp=sharing)
+* [\[PDF\] 學期初設定大補帖 220523](https://drive.google.com/file/d/18RCgyA8vBk1Nh6pUfKSek84L8ve4VB9G/view?usp=sharing)
 
 ## 系統管理 <a href="#xi-guan-li-mo" id="xi-guan-li-mo"></a>
 
@@ -45,7 +45,7 @@
 
 ***
 
-* [\[PDF\] 註冊組常用模組](https://drive.google.com/file/d/1ZH9XTd1OscBevaz\_8I3qZu3fgae10JnH/view?usp=sharing)
+* [\[PDF\] 註冊組常用模組 220608](https://drive.google.com/file/d/1bOIJ0Tn5cieLU02Xd8X6ZrhMR2F\_kT0\_/view?usp=sharing)
 
 ## ※免試入學專區（自行加掛）
 
