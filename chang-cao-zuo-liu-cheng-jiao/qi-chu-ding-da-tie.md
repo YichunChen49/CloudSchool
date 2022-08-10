@@ -37,7 +37,7 @@ description: 本系統中所有功能模組都需要根據學期初設定才能�
 
 ### **前置作業**
 
-1. [SFS3 升級後檢查](../xi-guan-li-mo/system.md#sfs3-sheng-cha)：升級後姓名錯誤檢查（剛從 SFS3 轉至雲端校務系統時，需操作此步驟）。
+1. [SFS3 升級後檢查](../xi-guan-li-mo/system.md#sfs3-sheng-ji-hou-jian-cha)：升級後姓名錯誤檢查（剛從 SFS3 轉至雲端校務系統時，需操作此步驟）。
 2. [畢業生轉出作業](../jiao/sheng-liao-guan-li.md#bi-ye-zhuan-chu)：先完成舊年度畢業生轉出作業。
 
 ### 學期初設定
