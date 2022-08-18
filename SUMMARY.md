@@ -9,7 +9,7 @@
 
 ***
 
-* [\[PDF\] 學期初設定大補帖 220523](https://drive.google.com/file/d/18RCgyA8vBk1Nh6pUfKSek84L8ve4VB9G/view?usp=sharing)
+* [\[PDF\] 學期初設定大補帖 220818](https://drive.google.com/file/d/1RiIVJFpssq7nj-mhfHm9JGlKtBzeDveM/view?usp=sharing)
 
 ## 系統管理 <a href="#xi-guan-li-mo" id="xi-guan-li-mo"></a>
 

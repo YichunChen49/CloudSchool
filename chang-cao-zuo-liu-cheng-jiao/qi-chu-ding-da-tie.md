@@ -46,7 +46,7 @@ description: 本系統中所有功能模組都需要根據學期初設定才能�
 1. [開學日設定](../jiao/qi-chu-ding.md#1-kai-xue-ri)。
 2. [班級設定](../jiao/qi-chu-ding.md#2-ban-ji)。
 3. [上課日設定](../jiao/qi-chu-ding.md#3-shang-ke-ri)。
-4. [教職員職稱](../jiao/qi-chu-ding.md#4-jiao-zhi-yuan-zhi-chen)。
+4. [教職員職稱](../jiao/qi-chu-ding.md#4-jiao-zhi-yuan-zhi-chen)。(設定完1.開學日-新學期，系統會自動複製上學期職稱資料)
 
 {% hint style="info" %}
 學期初設定到這裡，已經可以另外進行學期編班作業、教職員資料異動。
