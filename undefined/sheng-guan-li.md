@@ -74,10 +74,13 @@
 
 {% tabs %}
 {% tab title="獎懲統計" %}
-![](../.gitbook/assets/reward-and-punishment\_statistics.png)
+![](../.gitbook/assets/reward-semester-count.png)
 
-* 選擇學期。
-* 列印該學期獎懲統計。
+1. 選擇學期。
+2. 列印該學期獎懲統計。
+3. 點擊「本學期學生懲戒明細」可查看學期懲戒學生列表，顯示單一學期有懲戒紀錄學生。![](../.gitbook/assets/reward-semester-count2.png)
+4. 點擊**「放大鏡」**可查看懲戒明細。
+5. 可下載Excel檔。
 
 {% hint style="info" %}
 學期獎懲統計會統計出所選學期所有獎懲之數量。
