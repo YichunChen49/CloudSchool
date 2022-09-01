@@ -116,9 +116,7 @@
 {% tabs %}
 {% tab title="新增人員" %}
 {% hint style="warning" %}
-*
-
-注意，新增的人員「具有模擬別人」權限。
+* 注意，新增的人員**「具有模擬別人」**權限。
 {% endhint %}
 
 ![](../.gitbook/assets/simulation.png)
