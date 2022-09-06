@@ -10,7 +10,7 @@
 4. 可**「刪除」**已登錄的缺曠紀錄，或**「新增註記」**。
 
 {% hint style="info" %}
-整天有無包含升降旗請至[ 參數設定 ](que-guan-li.md#can-shu-she-ding)中調整，如含升降旗，可勾選右方整天是否含升降旗。
+是否登錄升降旗、整天有無包含升降旗預設值、調整升降旗顯示名稱請至[ 參數設定 ](que-guan-li.md#can-shu-she-ding)中調整。
 {% endhint %}
 
 ### 修改假別
@@ -177,7 +177,7 @@
 
 點選「**參數設定**」後，進入參數設定頁面
 
-![](../.gitbook/assets/absent-params.png)
+![](<../.gitbook/assets/absent-params (1).png>)
 
 1. 可以進行各項參數的調整。
 2. 操作完點擊「儲存設定」即可完成。
