@@ -408,7 +408,7 @@
 
 > 本模組為提供差假統計模組之應休欄位資料
 
-![](<../.gitbook/assets/teacher-annual-leave (1).png>)
+![](../.gitbook/assets/teacher-annual-leave.png)
 
 1. 選擇**「學期、教師」**來查詢教職員休假總時數。&#x20;
 2. 點擊**「編輯」**按鈕，可直接修改教職員休假總時數。
@@ -417,8 +417,8 @@
 教師類別以學年計算，職員工以年度計算。學期選單只為篩選當學期在職之教職員，輸入之資料為整年度或整學年度之時數， 故選擇110-1學期及選擇110-2學期輸入之資料都為同一筆，如為教師就是110學年度可休時數，職員工就是110年度可休時數。
 {% endhint %}
 
-### &#x20;<a href="#shang-pan-jih-she-ting" id="shang-pan-jih-she-ting"></a>
-
+> ###
+>
 > 配合行政院事行政總處年度辦公日曆表設定放假日及上班日
 
 <figure><img src="../.gitbook/assets/teacher-duty-date.png" alt=""><figcaption></figcaption></figure>
