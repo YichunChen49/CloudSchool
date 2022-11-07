@@ -424,7 +424,7 @@
 <figure><img src="../.gitbook/assets/teacher-duty-date.png" alt=""><figcaption></figcaption></figure>
 
 1. 選擇**「學年度」**。下方區塊會顯示是否已設置的訊息。
-2. 直接點擊日曆上的日期即可調整上班日／休息日。上班日。
+2. 直接點擊日曆上的日期即可調整上班日／休息日。底色藍色為上班日。
 3. 點擊**「儲存」**完成此次編輯。
 
 {% hint style="info" %}
