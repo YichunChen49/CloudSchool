@@ -271,10 +271,6 @@ description: 本模組為提供導師或級任教師班級管理作業功能。
 4. 若是請假整天，可勾選**「整天」**。
 5. 登錄完畢請按 **「儲存登記」** 按鈕。
 6. 如欲刪除學生缺曠紀錄，請點擊「刪除」。
-
-{% hint style="warning" %}
-如需修改導師已登記之學生假別，請聯繫學務處至[缺曠課管理模組](../undefined/que-guan-li.md#xiu-gai-jia-bie)進行修改。
-{% endhint %}
 {% endtab %}
 
 {% tab title="缺曠課明細" %}
