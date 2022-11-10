@@ -81,14 +81,7 @@
 提供各校自行設計成績單版型，請依下列步驟操作。
 
 {% tabs %}
-{% tab title="1. 安裝 libre office" %}
-![](../.gitbook/assets/make-report.png)
-
-1. 點擊 [LibreOffice Writer](https://zh-tw.libreoffice.org/) 下載連結。
-2. 下載 LibreOffice 軟體，建議下載 6.1.4 以上版本，下載後請安裝至本機。
-{% endtab %}
-
-{% tab title="2. 自訂成績單" %}
+{% tab title="1. 自訂成績單" %}
 ### 一、下載要自訂的成績單範本
 
 {% hint style="info" %}
@@ -157,7 +150,7 @@
 {% endhint %}
 {% endtab %}
 
-{% tab title="3. 編修簽章檔" %}
+{% tab title="2. 編修簽章檔" %}
 {% hint style="info" %}
 * 請先至 [系統管理>學校基本資料>職稱資料 ](../xi-guan-li-mo/school.md#zhi-chen-zi-liao)上傳職稱的簽章檔。
 * 系統提供之成績單樣本檔，預設會套印為**校長**、**教務主任**的簽章檔，若要修改，請參照下述步驟。
@@ -173,7 +166,7 @@
 6. 編輯完成後，請存檔。
 {% endtab %}
 
-{% tab title="4. 上傳自訂成績單" %}
+{% tab title="3. 上傳自訂成績單" %}
 完成編輯自訂成績單後，務必上傳至系統中。
 
 ![](../.gitbook/assets/make-report3.png)
@@ -186,6 +179,17 @@
 {% hint style="danger" %}
 注意！因每種成績單的套印標籤不同，若上傳時**成績單類型**選擇錯誤會有套印問題。
 {% endhint %}
+{% endtab %}
+
+{% tab title="安裝 libre office" %}
+{% hint style="info" %}
+如下載odt格式範本，需使用 libre office開啟，如本機無此軟體，可依下列步驟安裝。
+{% endhint %}
+
+![](../.gitbook/assets/make-report.png)
+
+1. 點擊 [LibreOffice Writer](https://zh-tw.libreoffice.org/) 下載連結。
+2. 下載 LibreOffice 軟體，建議下載 6.1.4 以上版本，下載後請安裝至本機。
 {% endtab %}
 {% endtabs %}
 
