@@ -199,7 +199,7 @@
 
 點選「**參數設定**」後，進入參數設定頁面
 
-![](<../.gitbook/assets/absent-params (1).png>)
+![](<../.gitbook/assets/absent-params (1) (1).png>)
 
 1. 可以進行各項參數的調整。
 2. 操作完點擊「儲存設定」即可完成。

@@ -67,14 +67,10 @@
 
 ## 參數設定
 
-![](<../.gitbook/assets/parameter\_setting (1).png>)
+<figure><img src="../.gitbook/assets/student-leader-params.png" alt=""><figcaption></figcaption></figure>
 
-1.依學校班級所需，在欄位內以隔行方式輸入「**班級幹部**」職稱。\
-2.依班級小老師所需，在欄位內以隔行方式輸入「**科目**」名稱。\
-3.依學校各社團所需，在欄位內以隔行方式輸入「**社團幹部**」職稱。
+<figure><img src="../.gitbook/assets/student-leader-params2.png" alt=""><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/parameter\_setting2.png)
-
-4.依學校所需，在欄位內以隔行方式輸入「**全校性社團**」名稱。\
-5.依全校性社團所需，在欄位內以隔行方式輸入「**幹部**」名稱。\
-6.操作以上設定後，請點擊「**儲存設定**」完成儲存動作。
+1. 依學校班級所需，在欄位內以隔行方式輸入幹部職稱。
+2. 可針對**「幹部獎勵作業」**進行參數調整，影響[**「班級幹部獎勵設定」**](../jiao-1/zuo.md#ban-ji-gan-bu-jiang-li-she-ding)模組。
+3. 編修完畢請點擊**「儲存設定」**，完成此次調整。

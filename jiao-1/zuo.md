@@ -407,6 +407,23 @@ description: 本模組為提供導師或級任教師班級管理作業功能。
 1. 請選擇學生，右方會列出該生所有幹部紀錄，按 **「列印」** 按鈕可列印該生紀錄。
 2. 按 **「列印全班」** 按鈕可列印該班所有學生幹部紀錄。
 {% endtab %}
+
+{% tab title="班級幹部獎勵設定" %}
+{% hint style="info" %}
+如欲使用此模組功能，需先請學務處至「班級幹部＞[參數設定](../undefined/sheng-bu.md#can-shu-she-ding)」中調整參數。
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/tutor-leader-reward.png" alt=""><figcaption></figcaption></figure>
+
+1. 選擇**「班級幹部」**或**「小老師」**進行獎勵設定。
+2. 選擇**「獎勵選項」**。
+3. 填寫**「事由」**。
+4. 點擊**「儲存」**完成編輯，具有審核權限教職員將能在「線上簽核獎勵」模組進行簽核。
+
+{% hint style="info" %}
+**「獎勵選項」**及**「事由」**細項內容皆可於「班級幹部＞[參數設定](../undefined/sheng-bu.md#can-shu-she-ding)」中設定。
+{% endhint %}
+{% endtab %}
 {% endtabs %}
 
 {% hint style="info" %}
