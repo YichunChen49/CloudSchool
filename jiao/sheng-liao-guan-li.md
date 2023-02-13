@@ -1138,15 +1138,25 @@
 
 ### 學生資源網-學籍匯出紀錄
 
-![](../.gitbook/assets/student\_k12ea\_status.png)
+![](<../.gitbook/assets/student\_k12ea\_status (1).png>)
 
 1. 點擊**「學生數明細」**可查看各年級學生數量。
 2. 點擊**「結果檢核」**可查看上傳結果，如下圖。\
    ![](../.gitbook/assets/student\_k12ea\_status2.png)
 3. 可**「下載」**檢核結果。
+4. 可**「匯出學籍json檔案」**，請參考下圖。\
+   4-1. 於此處輸入學生身分證，每列一位(點擊ENTER鍵跳下一列)，至多20位學生。 \
+   4-2.**「線上檢視學生json檔」**提供學校檢視學生資料json檔。\
+   4-3.**「下載json檔案」**由學校承辦人登入學生資源網，以上傳json格式檔案方式，進行補上傳作業。
+
+<figure><img src="../.gitbook/assets/student_k12ea_status_2 (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 成績檢核說明：本紀錄為學籍上傳前本系統自行檢核之結果，提供學校參考。正式檢核結果仍需依「學生資源網」檢核結果為主。
+{% endhint %}
+
+{% hint style="danger" %}
+縣市學籍批次上傳學生資源網後，經過學資網檢核不通過者，在補齊缺漏之學期成績後，可透過步驟4.匯出Json格式學籍資料。並由學校承辦人再登入學生資源網，以上傳json格式檔案方式，進行補上傳作業。
 {% endhint %}
 
 {% hint style="info" %}
