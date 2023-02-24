@@ -6,7 +6,9 @@
 
 本項作業列出各學期之獎懲及缺勤統計。
 
-## 日常描述文字輸入
+## 日常描述文字
+
+### 日常描述文字輸入
 
 ![](../.gitbook/assets/behavior-input1.png)
 
@@ -26,6 +28,15 @@
 如需編輯非本學期資料，請至[參數設定](ri-chang-cheng-guan-li.md#can-shu-she-ding)更改權限。
 {% endhint %}
 
+### 日常描述輸入狀況
+
+<figure><img src="../.gitbook/assets/behavior-input-status.png" alt=""><figcaption></figcaption></figure>
+
+1. 選擇**「學期」**。
+2. 選擇**「年級」**。
+3. 此處顯示各班日常描述文字輸入情況。
+4. 點擊**「放大鏡」**圖示，可查看班級日常描述文字內容列表。
+
 ## 日常檢核表
 
 {% tabs %}
@@ -39,7 +50,7 @@
 1.可以選擇系統提供的國中及國小預設項目或是複製學校上學期的設定。\
 2.增加主項目(如圖示項目:愛整潔、守秩序..) 請按「**加入主項目**」按鈕，於輸入文字之後按「**OK**」按鈕，即可加入主項目，如下圖。
 
-&#x20;![](../.gitbook/assets/set\_check-list3.png)&#x20;
+&#x20;<img src="../.gitbook/assets/set_check-list3.png" alt="" data-size="original">&#x20;
 
 ![](../.gitbook/assets/set\_check-list2.png)
 
