@@ -41,6 +41,10 @@
 
 {% tabs %}
 {% tab title="設定檢核表" %}
+{% hint style="danger" %}
+日常生活檢核表僅可處理當學期作業，無法處理非本學期內容。
+{% endhint %}
+
 ![](../.gitbook/assets/behavior-check-list1.png)
 
 1.選擇編輯本學期或查看舊學期資料後進入編修畫，如下圖。
@@ -62,6 +66,10 @@
 {% endtab %}
 
 {% tab title="檢視檢核表" %}
+{% hint style="danger" %}
+日常生活檢核表僅可處理當學期作業，無法處理非本學期內容。
+{% endhint %}
+
 ![](../.gitbook/assets/check-list-record1.png)
 
 1.選擇**「學年度」**、**「班級」**、**「學生」**&#x20;
@@ -81,10 +89,6 @@
 7.點擊**「儲存」**，儲存該次編輯。
 {% endtab %}
 {% endtabs %}
-
-{% hint style="info" %}
-如需編輯非本學期資料，請至[參數設定](ri-chang-cheng-guan-li.md#can-shu-she-ding)更改權限。
-{% endhint %}
 
 ## 報表查詢
 
@@ -117,6 +121,10 @@
 {% endtab %}
 
 {% tab title="建議修業名單" %}
+{% hint style="info" %}
+此模組為國中端功能。
+{% endhint %}
+
 ![](../.gitbook/assets/report-search\_suggest\_study\_list.png)
 
 1. 選擇學期與年級。
