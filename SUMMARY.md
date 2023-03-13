@@ -24,7 +24,7 @@
 * [榮譽榜](xiao-hang-zheng/bang.md)
 * [學生競賽紀錄](xiao-hang-zheng/sheng.md)
 * [查詢與統計](xiao-hang-zheng/cha.md)
-* [教職員差假 / 差假管理(限彰化縣市)](xiao-hang-zheng/jiao-zhi-yuan-cha-jia-cha-jia-guan-li.md)
+* [教職員差假/差假管理(限彰化縣市)](xiao-hang-zheng/jiao-zhi-yuan-cha-jia-cha-jia-guan-li-xian-zhang-hua-xian-shi.md)
 
 ## 教務處 <a href="#jiao" id="jiao"></a>
 
