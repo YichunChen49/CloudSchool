@@ -6,15 +6,15 @@
 
 * 請至`系統管理`
 * 選擇`模組管理`
-* 點選[`新增模組`](../xi-guan-li-mo/module.md#xin-zeng-mo-zu)``
-* 新增[`停課學生關懷紀錄`](ting-ke-xue-sheng-guan-huai-ji-lu.md#ting-ke-xue-sheng-guan-huai-li-an)``
+* 點選[`新增模組`](../xi-guan-li-mo/module.md#xin-zeng-mo-zu)
+* 新增[`停課學生關懷紀錄`](ting-ke-xue-sheng-guan-huai-ji-lu.md#ting-ke-xue-sheng-guan-huai-li-an)
 
 {% file src="../.gitbook/assets/1.-ru-he-xin-zeng-guan-huai-mo-zu.mp4" %}
 
 **2.如何開放填報功能給導師(建議行政人員操作)**
 
 * 請至`系統管理`
-* 選擇[`模組管理`](../xi-guan-li-mo/module.md#mo-zu-guan-li)``
+* 選擇[`模組管理`](../xi-guan-li-mo/module.md#mo-zu-guan-li)
 * 將功能授權給導師
 
 {% file src="../.gitbook/assets/2.-ru-he-kai-fang-tian-bao-gong-neng-gei-dao-shi.mp4" %}
@@ -47,7 +47,7 @@
 1-3. 選擇**「起訖日期」**\
 1-4. 點選**「停學對象」**：單一學生、班級、全校\
 1-5.若該案**「已結案」**，請勾選**。**\
-****1-6. 點擊「**存檔」儲**存此次編輯紀錄。
+1-6. 點擊「**存檔」儲**存此次編輯紀錄。
 {% endtab %}
 {% endtabs %}
 

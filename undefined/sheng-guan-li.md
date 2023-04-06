@@ -99,7 +99,9 @@
 {% endtab %}
 {% endtabs %}
 
-## 線上簽核獎勵
+## 獎懲申報
+
+## 線上簽核獎懲
 
 > 此模組功能可線上簽核獎懲，目前系統僅開放班級幹部獎勵線上簽核。
 
@@ -120,6 +122,19 @@
 * 若**「取消審核」**已登錄之獎懲，系統將會自動刪除該筆獎懲，無需進入獎懲模組刪除紀錄
 {% endhint %}
 
+## 常用獎懲事由
+
+{% hint style="info" %}
+此處設定的獎懲事由可套印至[獎懲登記](sheng-guan-li.md#jiang-cheng-deng-ji)但須先於參數設定中先設定**獎懲輸入介面參數-獎懲事由輸入方式**。
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/reward-causation1.png" alt=""><figcaption></figcaption></figure>
+
+1. 點擊**「＋新增」**可新增常用獎懲事由。
+2. 點擊**「編輯」**可編輯獎懲事由內容。
+3. 點擊**「刪除」**可刪除該常用獎懲事由。
+4. 點擊**「下載」**可下載獎懲事由列表EXCEL檔。
+
 ## 補登作業
 
 ### 轉學生個人獎懲登記
@@ -139,10 +154,11 @@
 
 ## 參數設定
 
-![](<../.gitbook/assets/absent-params (1).png>)
+<figure><img src="../.gitbook/assets/absent-params.png" alt=""><figcaption></figcaption></figure>
 
 1. 可以依各校所需調整參數設定，輸入完畢請點擊「**儲存設定**」即可完成操作。
 
 {% hint style="info" %}
-**「線上獎懲審核職稱」**須與各校設定之教職員的職稱完全符合方能進行簽核作業。
+* **「獎懲事由」**需搭配＂常用獎懲事由＂模組使用。
+* **「線上獎懲審核職稱」**須與各校設定之教職員的職稱完全符合方能進行簽核作業。
 {% endhint %}
