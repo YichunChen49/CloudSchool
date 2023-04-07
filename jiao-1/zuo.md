@@ -323,9 +323,14 @@ description: 本模組為提供導師或級任教師班級管理作業功能。
 1. 選擇學生後會顯示該生榮譽紀錄。
 2. 按下**「列印」** 按鈕可列印該生或全班紀錄。按下**「儲存」**可儲存該生或全班榮譽紀錄表。
 {% endtab %}
+
+{% tab title="學生競賽紀錄" %}
+<figure><img src="../.gitbook/assets/tutor-race-record.png" alt=""><figcaption></figcaption></figure>
+
+1. 選擇學生後，可查詢學生歷年競賽紀錄。
+2. 可**「列印」**個人或全班的競賽紀錄。
+{% endtab %}
 {% endtabs %}
-
-
 
 ## 統計報表
 
