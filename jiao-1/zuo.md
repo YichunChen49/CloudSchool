@@ -516,4 +516,12 @@ description: 本模組為提供導師或級任教師班級管理作業功能。
 2. 選擇**「升學學校」**。
 3. 按下**「確定」**，即設定完成。
 {% endtab %}
+
+{% tab title="填報畢業班本土語選修意願" %}
+<figure><img src="../.gitbook/assets/tutor-native-sign-tc.png" alt=""><figcaption></figcaption></figure>
+
+1. 勾選**「學生」**。
+2. 選擇**「本土語文類別」**。
+3. 點擊**「確定」**，即可儲存本土語文選修意願。
+{% endtab %}
 {% endtabs %}
