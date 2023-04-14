@@ -880,6 +880,48 @@
 2. 標示處顯示查詢結果。&#x20;
 3. 可下載「**教育程度查記作業輸出檔**」。
 
+### 畢業生本土語選修意願
+
+{% tabs %}
+{% tab title="總表" %}
+{% hint style="info" %}
+* 請先在「畢業生一覽表」完成學生[「升學學校設定」](sheng-liao-guan-li.md#bian-xiu-sheng-xue-xue-xiao)作業
+* 本模組為學校業務承辦人管理專用：畢業班填報本土語選修意願，請畢業班導師至「教職員>導師作業>填報事項>填報畢業班本土語選修意願」進行填報。
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/native-tc-sign.png" alt=""><figcaption></figcaption></figure>
+
+1. 點擊**「填報本土語文選修意願」**可填寫各班級學生本土語文選修意願，詳見下列頁籤。
+2. 點擊**「匯出資料至升學國中」**可將選填資料匯送至升學國中，詳見下列頁籤。
+3. 可查看歷年**「填報結果」**。
+{% endtab %}
+
+{% tab title="填報本土語文選修意願" %}
+{% hint style="info" %}
+建議請應屆班級班導師由「教職員>導師作業>填報事項>填報畢業班本土語選修意願」填寫任導班級學生的本土語文選修。
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/native-tc-sign2-1.png" alt=""><figcaption></figcaption></figure>
+
+1. 選擇應屆畢業**「班級」**。
+2. 勾選**「學生」**
+3. 選擇**「本土語文類別」**後按確定；如須清除已設定資料，選擇＂清除已設定的資料＂後按確定。
+{% endtab %}
+
+{% tab title="匯出資料至升學國中" %}
+<figure><img src="../.gitbook/assets/native-tc-sign3.png" alt=""><figcaption></figcaption></figure>
+
+1. 選擇要匯出至升學國中的資料。
+2. 選擇匯出的升學國中。
+3. 點擊**「線上匯送資料」**，可將資料匯給使用CS校務系統的學校。
+4. 可**「檢視」**、**「刪除」**已匯送的資料。
+
+{% hint style="info" %}
+本土語選修意願資料匯送至升學國中，需先在「畢業生一覽表」完成學生[「升學學校設定」](sheng-liao-guan-li.md#bian-xiu-sheng-xue-xue-xiao)作業。
+{% endhint %}
+{% endtab %}
+{% endtabs %}
+
 ## 報表列印
 
 ### 學籍成績記錄表
