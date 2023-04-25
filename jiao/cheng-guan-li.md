@@ -76,6 +76,10 @@
 1. 選擇**「學期」**、**「班級」**。
 2. 標示處呈現該班學生月考進退步情形。
 
+{% hint style="info" %}
+可於[「參數設定」](cheng-guan-li.md#can-shu-she-ding)調整進退步成績採計規則。
+{% endhint %}
+
 ## 自訂成績單
 
 提供各校自行設計成績單版型，請依下列步驟操作。
@@ -216,4 +220,10 @@
 3. 勾選核章選項及學期選項。&#x20;
 4. 可列印的成績表。&#x20;
 5. 可下載成績表。
+
+### 參數設定
+
+點選「**參數設定**」後，進入參數設定頁面，可調整參數設定。
+
+<figure><img src="../.gitbook/assets/report-card-params.png" alt=""><figcaption></figcaption></figure>
 
