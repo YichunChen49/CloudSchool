@@ -10,7 +10,11 @@
 
 要觀看或填寫個案之基本資料，請按該生姓名下方之「基本資料」按鈕，會出現如下圖畫面。
 
-![請填寫該生相關資料後，按儲存按鈕來儲存輸入之資料。](../.gitbook/assets/fillin\_case2.png)
+<div align="center">
+
+<img src="../.gitbook/assets/fillin_case2.png" alt="請填寫該生相關資料後，按儲存按鈕來儲存輸入之資料。">
+
+</div>
 
 #### 2. 「輔導紀錄」
 

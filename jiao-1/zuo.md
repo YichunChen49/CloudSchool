@@ -8,7 +8,11 @@ description: 本模組為提供導師或級任教師班級管理作業功能。
 
 {% tabs %}
 {% tab title="學生基本資料" %}
-![](../.gitbook/assets/tutor-student-data.png)
+<div align="left">
+
+<img src="../.gitbook/assets/tutor-student-data.png" alt="">
+
+</div>
 
 請點選學生後，依學生資料修改表單，修改完成後請按 「儲存」 按鈕儲存資料
 
@@ -18,7 +22,11 @@ description: 本模組為提供導師或級任教師班級管理作業功能。
 {% endtab %}
 
 {% tab title="父母監護人資料" %}
-![](../.gitbook/assets/tutor-student-families.png)
+<div align="left">
+
+<img src="../.gitbook/assets/tutor-student-families.png" alt="">
+
+</div>
 
 1. 請選擇 **「父母監護人資料」**。
 2. 請點選學生
@@ -119,7 +127,11 @@ description: 本模組為提供導師或級任教師班級管理作業功能。
 
 {% tabs %}
 {% tab title="學期輔導紀錄" %}
-![請選擇學生，並依學生狀況填寫紀錄。](../.gitbook/assets/tutor6.png)
+<div align="left">
+
+<img src="../.gitbook/assets/tutor6.png" alt="請選擇學生，並依學生狀況填寫紀錄。">
+
+</div>
 {% endtab %}
 
 {% tab title="訪談記錄" %}
@@ -232,7 +244,11 @@ description: 本模組為提供導師或級任教師班級管理作業功能。
 {% tab title="訪談記錄未填列表" %}
 本功能是統計導師填寫班級訪談紀錄狀況，請點選學期出現如下圖，可依紀錄次數篩選。
 
-![待紀錄之學生欄位就會統計出尚缺紀錄之學生名單。](../.gitbook/assets/tutor-counseling-check-interview.png)
+<div align="left">
+
+<img src="../.gitbook/assets/tutor-counseling-check-interview.png" alt="待紀錄之學生欄位就會統計出尚缺紀錄之學生名單。">
+
+</div>
 {% endtab %}
 
 {% tab title="輔導記錄統計" %}
@@ -356,15 +372,27 @@ description: 本模組為提供導師或級任教師班級管理作業功能。
 {% endtab %}
 
 {% tab title="生日月分統計" %}
-![本功能會統計每月壽星人數及列出每月之壽星。](../.gitbook/assets/tutor28.png)
+<div align="left">
+
+<img src="../.gitbook/assets/tutor28.png" alt="本功能會統計每月壽星人數及列出每月之壽星。">
+
+</div>
 {% endtab %}
 
 {% tab title="生日星座統計" %}
-![本功能會統計列出各星座之學生。](../.gitbook/assets/tutor29.png)
+<div align="left">
+
+<img src="../.gitbook/assets/tutor29.png" alt="本功能會統計列出各星座之學生。">
+
+</div>
 {% endtab %}
 
 {% tab title="特殊身分別" %}
-![本功能會列出有特殊身分之學生。](../.gitbook/assets/tutor-report-specia.png)
+<div align="left">
+
+<img src="../.gitbook/assets/tutor-report-specia.png" alt="本功能會列出有特殊身分之學生。">
+
+</div>
 
 1. 點選數字可顯示學生明細。
 2. 點選放大鏡圖示將以網頁方式開啟該項目學生列表。 點選**「文件」**圖示可下載該項目學生名單excel檔。
@@ -439,11 +467,19 @@ description: 本模組為提供導師或級任教師班級管理作業功能。
 
 {% tabs %}
 {% tab title="服務時數" %}
-![本功能顯示全班學生各學期服務時數。](../.gitbook/assets/service-total.png)
+<div align="left">
+
+<img src="../.gitbook/assets/service-total.png" alt="本功能顯示全班學生各學期服務時數。">
+
+</div>
 {% endtab %}
 
 {% tab title="學生社團名冊" %}
-![本功能可以顯示、列印班級學生參與社團名冊。](../.gitbook/assets/club-list.png)
+<div align="left">
+
+<img src="../.gitbook/assets/club-list.png" alt="本功能可以顯示、列印班級學生參與社團名冊。">
+
+</div>
 {% endtab %}
 
 {% tab title="學生社團記錄" %}
@@ -459,11 +495,19 @@ description: 本模組為提供導師或級任教師班級管理作業功能。
 
 {% tabs %}
 {% tab title="學生體適能記錄" %}
-![要查詢列印學生體適能紀錄可以點選學生後，列印個人或全班之紀錄。](../.gitbook/assets/fitness-record.png)
+<div align="left">
+
+<img src="../.gitbook/assets/fitness-record.png" alt="要查詢列印學生體適能紀錄可以點選學生後，列印個人或全班之紀錄。">
+
+</div>
 {% endtab %}
 
 {% tab title="體適能班級總表" %}
-![要查詢列印學生體適能紀錄可以選擇學年後，列印全班之紀錄。](../.gitbook/assets/fitness-total.png)
+<div align="left">
+
+<img src="../.gitbook/assets/fitness-total.png" alt="要查詢列印學生體適能紀錄可以選擇學年後，列印全班之紀錄。">
+
+</div>
 {% endtab %}
 {% endtabs %}
 

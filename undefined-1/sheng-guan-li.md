@@ -20,7 +20,11 @@
 
 ## 學生訪談記錄
 
-![](../.gitbook/assets/student\_interview\_record.png)
+<div align="left">
+
+<img src="../.gitbook/assets/student_interview_record.png" alt="">
+
+</div>
 
 1.要登錄資料，請按 **「登錄」** 按鈕，進入編修頁面如下圖。
 
@@ -66,7 +70,11 @@
 
 4.要新增紀錄，請按 **「新增紀錄」** 按鈕，會跳出視窗如下圖。
 
-![](../.gitbook/assets/special\_behavior3.png)
+<div align="left">
+
+<img src="../.gitbook/assets/special_behavior3.png" alt="">
+
+</div>
 
 5.請選擇學期，並在表單內容輸入紀錄。
 

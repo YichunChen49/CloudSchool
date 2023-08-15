@@ -40,11 +40,19 @@
 
 {% tabs %}
 {% tab title="獎懲紀錄列表" %}
-![本功能會列出學生所有系統內已登錄之獎懲紀錄。](../.gitbook/assets/stud-items5.png)
+<div align="left">
+
+<img src="../.gitbook/assets/stud-items5.png" alt="本功能會列出學生所有系統內已登錄之獎懲紀錄。">
+
+</div>
 {% endtab %}
 
 {% tab title="缺曠課紀錄列表" %}
-![本功能會列出學生所有系統內已登錄之缺曠課紀錄。](../.gitbook/assets/stud-items6.png)
+<div align="left">
+
+<img src="../.gitbook/assets/stud-items6.png" alt="本功能會列出學生所有系統內已登錄之缺曠課紀錄。">
+
+</div>
 {% endtab %}
 {% endtabs %}
 
@@ -80,7 +88,11 @@
 {% endtab %}
 
 {% tab title="服務紀錄" %}
-![本功能會列出學生所有系統內已登錄之服務學習時數紀錄。](../.gitbook/assets/stud-items-service-list.png)
+<div align="left">
+
+<img src="../.gitbook/assets/stud-items-service-list.png" alt="本功能會列出學生所有系統內已登錄之服務學習時數紀錄。">
+
+</div>
 
 
 {% endtab %}
@@ -90,11 +102,19 @@
 
 {% tabs %}
 {% tab title="社團列表" %}
-![本功能會列出本校開設之社團資訊。](../.gitbook/assets/stud-items10.png)
+<div align="left">
+
+<img src="../.gitbook/assets/stud-items10.png" alt="本功能會列出本校開設之社團資訊。">
+
+</div>
 {% endtab %}
 
 {% tab title="社團選課" %}
-![如果有設定開放社團選課，本功能可讓學生自行登入填選社團志願。](../.gitbook/assets/stud-items11.png)
+<div align="left">
+
+<img src="../.gitbook/assets/stud-items11.png" alt="如果有設定開放社團選課，本功能可讓學生自行登入填選社團志願。">
+
+</div>
 
 1. 列出可以選填志願之社團資訊。
 2. 選填志願注意事項。
@@ -104,12 +124,20 @@
 {% tab title="社團記錄及個人省思" %}
 本功能會列出學生個人參與社團之紀錄，並可編輯自我省思。
 
-![](../.gitbook/assets/stud-items12.png)
+<div align="left">
+
+<img src="../.gitbook/assets/stud-items12.png" alt="">
+
+</div>
 
 1. 點擊編輯自我省思，產生視窗如下圖
 2. 編輯完畢後點擊「儲存」即可儲存此次編修。
 
-![](../.gitbook/assets/stud-items13.png)
+<div align="left">
+
+<img src="../.gitbook/assets/stud-items13.png" alt="">
+
+</div>
 {% endtab %}
 {% endtabs %}
 

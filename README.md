@@ -23,7 +23,11 @@ description: Cloud School 雲端校務系統為集中管理、高安全性、高
 
 Cloud School Activity+ 是專為學校打造的課程報名系統，適用於課後活動、社團、課後照護班等報名與管理。使用雲端校務系統帳號認證，學校管理者線上發佈才藝課程內容，學生、家長線上報名，可設定抽籤、候補機制，雙方即時掌握報名狀況。
 
-![](.gitbook/assets/cai-yi-bao-ming-01.png)
+<div align="center">
+
+<img src=".gitbook/assets/cai-yi-bao-ming-01.png" alt="">
+
+</div>
 
 ![](.gitbook/assets/cai-yi-bao-ming-02.png)
 

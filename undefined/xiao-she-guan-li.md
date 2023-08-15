@@ -32,7 +32,11 @@
 
 ## 社團一覽表
 
-![](../.gitbook/assets/club\_list.png)
+<div align="center">
+
+<img src="../.gitbook/assets/club_list.png" alt="">
+
+</div>
 
 本功能列出已設定的社團、社團教師、已編組學生等。
 

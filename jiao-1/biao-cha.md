@@ -22,7 +22,11 @@ description: 本模組包含課表查詢及專科教室預約功能。
 
 ## 專科教室課表
 
-![](<../.gitbook/assets/classroom-query1 (1).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/classroom-query1 (1).png" alt="">
+
+</div>
 
 本功能能查詢各專科教室課表。點選下拉選項可選擇專科教室。
 
@@ -33,7 +37,11 @@ description: 本模組包含課表查詢及專科教室預約功能。
 
 ## 空堂查詢
 
-![本功能查詢各節次該節空堂教師名單。](../.gitbook/assets/break-time.png)
+<div align="left">
+
+<img src="../.gitbook/assets/break-time.png" alt="本功能查詢各節次該節空堂教師名單。">
+
+</div>
 
 ## 預約專科教室
 

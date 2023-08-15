@@ -74,7 +74,11 @@
 
 {% tabs %}
 {% tab title="獎懲統計" %}
-![](../.gitbook/assets/reward-semester-count.png)
+<div align="left">
+
+<img src="../.gitbook/assets/reward-semester-count.png" alt="">
+
+</div>
 
 1. 選擇學期。
 2. 列印該學期獎懲統計。
@@ -88,7 +92,11 @@
 {% endtab %}
 
 {% tab title="獎懲班級統計" %}
-![](../.gitbook/assets/reward-and-punishment\_statistics2.png)
+<div align="left">
+
+<img src="../.gitbook/assets/reward-and-punishment_statistics2.png" alt="">
+
+</div>
 
 * 選擇學期以及班級。
 * 可以選擇下載班級或是全校獎懲統計。
