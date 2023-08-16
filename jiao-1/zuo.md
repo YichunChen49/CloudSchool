@@ -371,6 +371,14 @@ description: 本模組為提供導師或級任教師班級管理作業功能。
 4. 點擊**「下載」**即可下載學生名冊。
 {% endtab %}
 
+{% tab title="學生帳號密碼查詢" %}
+<figure><img src="../.gitbook/assets/tutor-student-account-query.png" alt=""><figcaption><p>本功能可查詢任導班級學生的帳號密碼。</p></figcaption></figure>
+
+1. 點擊「班級帳號Excel下載」，可下載任導班級學生帳號清冊。
+
+<mark style="background-color:red;">※ 需開啟此模組功能，需先請系統管理員至「系統管理＞模組管理」調整「帳號管理」的參數設定允許6. 導師查詢班級帳號密碼。參數調整操作說明建議可參考</mark>[<mark style="background-color:red;">「參數調整」</mark>](../xi-guan-li-mo/module.md#can-shu-diao-zheng)<mark style="background-color:red;">。</mark>
+{% endtab %}
+
 {% tab title="生日月分統計" %}
 <div align="left">
 
